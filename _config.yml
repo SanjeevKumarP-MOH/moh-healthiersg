@@ -2,8 +2,8 @@ title: Healthier SG
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#00838f"
-  secondary-color: "#4a90e2"
+  primary-color: "#00238f"
+  secondary-color: "#4a94e2"
   media-colors:
     - title: media-color-one
       color: "#49759a"

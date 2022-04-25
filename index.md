@@ -15,7 +15,7 @@ sections:
           url: /what-is/
         - title: Resources
           description: Posters, videos, infographics
-          url: /resources/
+          url: /resource/
         - title: FAQ
           description: Frequently Asked Questions
           url: /faq/

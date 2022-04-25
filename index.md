@@ -21,7 +21,6 @@ sections:
           url: /faq/
   - infopic:
       title: Have views on how we can build a Healthier SG?
-      description: Share your views here
       button: Share your views here
       url: https://gov.gov.sg/hsgsurvey
       alt: Image alt text

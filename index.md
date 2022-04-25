@@ -28,7 +28,7 @@ sections:
       alt: Healthier SG survey
       image: /images/favicon-isomer.ico
   - infobar:
-      title: Healthier SG conversations
+      title: Healthier SG Conversations
       description: We invite the public to share their views through in-person
         engagement sessions.
       button: To find out more

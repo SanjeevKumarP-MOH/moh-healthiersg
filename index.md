@@ -25,6 +25,11 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: Have views on how we can build a Healthier SG?
+      description: Share your views here.
+      button: Click here
+      url: https://go.gov.sg/hsgsurvey
   - resources:
       title: Media
       subtitle: Learn more

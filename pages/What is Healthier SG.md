@@ -3,9 +3,7 @@ title: What is Healthier SG
 permalink: /about/
 description: ""
 ---
-
-
-Healthier Singapore is a new programme that anchors in the adage “Prevention is better than cure”.
+**Healthier Singapore** is a new programme that anchors in the adage “Prevention is better than cure”.
 
 The preventive care approach drives efforts upstream to keep individuals healthy, address risk factors and receive early interventions so that any downstream serious health conditions (for e.g. diabetes and heart diseases), can be mitigated.
 
@@ -31,4 +29,4 @@ Healthier SG is planned for roll out in 2023, where every resident will be invit
 
 The programme will be coordinated by the three healthcare clusters, so that Singaporeans can get care and support near where they live. But they will still have the choice on who they want to enroll with.
 
-Read more on Healthier SG from the [Minister of Health’s Committee of Supply 2022 speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
+Read more on Healthier SG from the [Health Minister’s Committee of Supply 2022 speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).

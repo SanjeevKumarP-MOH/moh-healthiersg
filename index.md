@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Healthier SG
       background: /images/HSG Draft Banner.jpeg
       key_highlights:
         - title: What is Healthier SG?

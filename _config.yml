@@ -2,19 +2,19 @@ title: Healthier SG
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#00238f"
-  secondary-color: "#2e87e7"
+  primary-color: "#2567cb"
+  secondary-color: "#0b449f"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#2567cb"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#0b449f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#11346b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#102a52"
     - title: media-color-five
-      color: "#00838f"
+      color: "#85b2f5"
 resources_name: resource
 description: Healthier SG
 permalink: none

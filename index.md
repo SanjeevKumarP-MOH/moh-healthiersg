@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Healthier SG
-description: Healthier SG
+description: Towards a Healthier Singapore
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -34,5 +34,6 @@ sections:
       button: To find out more
       url: https://go.gov.sg/hsginterest
 ---
+
 
 

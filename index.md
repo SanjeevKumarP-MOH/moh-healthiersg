@@ -19,17 +19,18 @@ sections:
         - title: FAQ
           description: Frequently Asked Questions
           url: /faq/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
+  - infopic:
       title: Have views on how we can build a Healthier SG?
-      description: Share your views here.
-      button: Click here
-      url: https://go.gov.sg/hsgsurvey
+      description: Share your views here
+      button: Share your views here
+      url: https://gov.gov.sg/hsgsurvey
+      alt: Image alt text
+  - infobar:
+      title: Healthier SG conversations
+      description: We invite the public to share their views through in-person
+        engagement sessions.
+      button: To find out more
+      url: https://go.gov.sg/hsginterest
   - resources:
       title: Media
       subtitle: Learn more

@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Have views on how we can build a Healthier SG?
       button: Share your views here
-      url: https://gov.gov.sg/hsgsurvey
+      url: https://go.gov.sg/hsgsurvey
       alt: Healthier SG survey
       image: /images/favicon-isomer.ico
   - infobar:

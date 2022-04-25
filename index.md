@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: What is Healthier SG?
           description: Everything you need to know
-          url: /what-is/
+          url: /about/
         - title: Resources
           description: Posters, videos, infographics
           url: /resource/

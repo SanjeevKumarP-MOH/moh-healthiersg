@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Healthier SG
-      background: /images/hero-banner.png
+      background: /images/HSG Draft Banner.jpeg
       key_highlights:
         - title: What is Healthier SG?
           description: Everything you need to know

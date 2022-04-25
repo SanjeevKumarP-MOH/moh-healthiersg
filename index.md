@@ -19,6 +19,9 @@ sections:
         - title: FAQ
           description: Frequently Asked Questions
           url: /faq/
+  - resources:
+      title: Towards a Healthier SG
+      button: View More
   - infopic:
       title: Have views on how we can build a Healthier SG?
       button: Share your views here
@@ -31,8 +34,4 @@ sections:
         engagement sessions.
       button: To find out more
       url: https://go.gov.sg/hsginterest
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---

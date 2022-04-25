@@ -19,7 +19,7 @@ sections:
           description: Frequently Asked Questions
           url: /faq/
   - resources:
-      title: Towards a Healthier SG
+      title: Towards a Healthier Singapore
       button: View More
   - infopic:
       title: Have views on how we can build a Healthier SG?
@@ -34,6 +34,3 @@ sections:
       button: To find out more
       url: https://go.gov.sg/hsginterest
 ---
-
-
-

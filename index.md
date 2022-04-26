@@ -26,7 +26,7 @@ sections:
       button: Share your views here
       url: https://go.gov.sg/hsgsurvey
       alt: Healthier SG survey
-      image: /images/favicon-isomer.ico
+      image: /images/healthier SG_survey edm_22 Apr.jpeg
   - infobar:
       title: Healthier SG Conversations
       description: We invite the public to share their views through in-person

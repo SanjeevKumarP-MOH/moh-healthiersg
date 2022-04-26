@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/healthier SG_Web banner.jpeg
+      background: /images/healthier SG_Web banner-02.jpeg
       key_highlights:
         - title: What is Healthier SG?
           description: Everything you need to know

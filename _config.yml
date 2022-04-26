@@ -53,3 +53,4 @@ plugins:
 staging: https://moh-healthiersg-staging.netlify.app
 prod: https://moh-healthiersg-prod.netlify.app
 is_government: true
+shareicon: /images/Ministry of Health.png

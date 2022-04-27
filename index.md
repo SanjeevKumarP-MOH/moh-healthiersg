@@ -25,7 +25,7 @@ sections:
       title: What does Healthier SG mean for you and me?
       subtitle: healthier SG interstitials
       button: view more
-      url: https://youtube.com/playlist?list=PLNlBse3NXZj_Q0WSVHHorsn_mAxJNwTsw
+      url: https://www.youtube.com/watch?v=Yq4n_rpM-so&list=PLNlBse3NXZj8P6DDiolYHP6hfabEhyhtM&index=1
       alt: Image alt text
       image: /images/HSG_Interstitials_1.png
   - infopic:

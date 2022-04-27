@@ -26,7 +26,7 @@ sections:
       button: Share your views here
       url: /survey/
       alt: Healthier SG survey
-      image: /images/healthier SG_survey edm_22 Apr.jpeg
+      image: /images/HSG_survey.jpeg
   - infobar:
       title: Healthier SG Conversations
       description: We invite the public to share their views through in-person

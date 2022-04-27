@@ -21,9 +21,6 @@ sections:
         - title: Resources
           description: Posters, videos, infographics
           url: /resource/
-  - resources:
-      title: Towards a Healthier Singapore
-      button: View More
   - infopic:
       title: Have views on how we can build a Healthier SG?
       button: Share your views here

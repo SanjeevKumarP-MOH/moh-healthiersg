@@ -12,12 +12,15 @@ sections:
         - title: What is Healthier SG?
           description: Everything you need to know
           url: /about/
+        - title: Healthier SG Questionnaire
+          description: Share your views here
+          url: /survey/
+        - title: Healthier SG Conversations
+          description: Join our public engagements
+          url: /engagement/
         - title: Resources
           description: Posters, videos, infographics
           url: /resource/
-        - title: FAQ
-          description: Frequently Asked Questions
-          url: /faq/
   - resources:
       title: Towards a Healthier Singapore
       button: View More

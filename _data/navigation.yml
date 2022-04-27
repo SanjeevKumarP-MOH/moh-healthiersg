@@ -2,9 +2,11 @@ logo: /images/Ministry of Health.png
 links:
   - title: What is Healthier SG?
     url: /about/
+  - title: Questionnaire
+    url: /survey/
+  - title: Public Engagement
+    url: /engagement/
   - title: Resources
     resource_room: true
   - title: FAQ
     url: /faq/
-  - title: Engagement
-    url: /engagement/

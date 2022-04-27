@@ -27,6 +27,7 @@ sections:
       button: view more
       url: https://youtube.com/playlist?list=PLNlBse3NXZj_Q0WSVHHorsn_mAxJNwTsw
       alt: Image alt text
+      image: /images/HSG_Interstitials_1.png
   - infopic:
       title: Have views on how we can build a Healthier SG?
       button: Share your views here

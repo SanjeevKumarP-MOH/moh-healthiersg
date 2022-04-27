@@ -9,6 +9,8 @@ The preventive care approach drives efforts upstream to keep individuals healthy
 
 This approach helps every individual reduce health risks and achieve good health outcomes in the long term.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6tHRIJW7R-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### One GP and One Care Plan for Every One
 
 Central to Healthier SG is a trusted relationship between the Family Doctor and Patient which ensures a continuous care delivery for different health episodes, throughout the life-course.
@@ -23,10 +25,14 @@ To support Singaporeans in their care journey and meet health needs, the regiona
 
 They will partner agencies such as the Health Promotion Board (HPB), Agency for Integrated Care (AIC), People’s Association (PA), SportsSG, National Parks Board and community partners to offer healthy lifestyle programmes, eldercare services, interest and peer support groups, depending on the health goals. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yq4n_rpM-so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### National Healthier SG Enrolment Programme
 
 Healthier SG is planned for roll out in 2023, where every resident will be invited to enroll with a family doctor of their choice as their first line of care and ensure continuity of care. 
 
 The programme will be coordinated by the three healthcare clusters, so that Singaporeans can get care and support near where they live. But they will still have the choice on who they want to enroll with.
 
-Read more on Healthier SG from the [Health Minister’s Committee of Supply 2022 speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
+Read more on Healthier SG from the [Health Minister’s Committee of Supply 2022 speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022), or view his address below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

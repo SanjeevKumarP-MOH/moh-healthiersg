@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: Have views on how we can build a Healthier SG?
       button: Share your views here
-      url: /survey/
+      url: https://form.gov.sg/#!/6254f4af045bce0012fc5a8b
       alt: Healthier SG survey
       image: /images/HSG_survey.jpeg
       description: We'd love to hear from you.
@@ -40,5 +40,5 @@ sections:
       description: We invite the public to share their views through in-person
         engagement sessions.
       button: To find out more
-      url: /engagement/
+      url: https://form.gov.sg/#!/6261f202b91a650012d3e3b5
 ---

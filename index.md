@@ -14,7 +14,7 @@ sections:
           url: /about/
         - title: Healthier SG Questionnaire
           description: Share your views here
-          url: /survey/
+          url: https://form.gov.sg/6254f4af045bce0012fc5a8b
         - title: Healthier SG Conversations
           description: Join our public engagements
           url: /engagement/

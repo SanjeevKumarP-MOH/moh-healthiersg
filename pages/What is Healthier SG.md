@@ -63,6 +63,6 @@ Read more on Healthier SG from the [Health Minister’s Committee of Supply 2022
 There will be many more steps we need to take to make this happen together. MOH will be sharing more and inviting comments from the public in the coming month. We welcome your thoughts and comments. 
 
 In the meantime, 
-* Click here to check if you are eligible for low-cost health screening under Screen for Life, if you have yet to complete it. 
-* Continue to visit (or start to find) a regular family doctor, so you know who to enrol with in future 
+* Click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life) to check if you are eligible for low-cost health screening under Screen for Life, if you have yet to complete it. 
+* Continue to visit, or start to find, a regular family doctor, so you know who to enrol with in future.
 * Continue to stay healthy and download [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) and [Health Hub](https://www.healthhub.sg/) for more information!

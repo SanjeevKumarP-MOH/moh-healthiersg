@@ -5,4 +5,4 @@ date: 2022-04-25
 layout: post
 description: ""
 ---
-<div> <iframe width="843" height="474" src="https://www.youtube.com/embed/lg_LF-VcGn4"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div> <iframe width="100%" height="474" src="https://www.youtube.com/embed/lg_LF-VcGn4"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>

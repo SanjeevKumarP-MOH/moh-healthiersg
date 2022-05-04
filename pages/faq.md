@@ -4,37 +4,30 @@ permalink: /faq/
 ---
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+#### **Community Involvement**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+**1. I read with interest the news about Singapore’s Healthier SG initiative. My friends and I are involved in our learning institution’s student interest group and wish to contribute to the Healthier SG strategy of delivering more coordinated care. How can we sign up?**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+The Healthier SG Strategy represents our collective desire to shape the health of our nation - your health, and that of your loved ones and future generations. Your perspectives and views towards the Healthier SG Strategy are key to helping us build a better nation of healthier citizens and propel towards change!
 
+You and your friends are welcome to contribute your views for Singapore’s Healthier SG via our online survey here: [to add the link]
 
+You can also participate in our focus groups coming up – stay tuned to our social media posts!
 
-<div class="sgds-accordion-set">
-    <div class="sgds-accordion">
-        <a href="#!" class="sgds-accordion-header" role="button" aria-expanded="false">
-            accordion bar 1 <i class="sgds-icon sgds-icon-chevron-down"></i>
-        </a>
-        <div class="sgds-accordion-body">
-            <p>your content 1</p>
-        </div>
-    </div>
-    <div class="sgds-accordion is-open">
-        <a class="sgds-accordion-header is-active" role="button" aria-expanded="true">
-            accordion bar 2 <i class="sgds-icon sgds-icon-chevron-up"></i>
-        </a>
-        <div class="sgds-accordion-body">
-            <p>This is an example of a open section</p>
-        </div>
-    </div>
-    <div class="sgds-accordion">
-        <a class="sgds-accordion-header" role="button" aria-expanded="false">
-            accordion bar 3 <i class="sgds-icon sgds-icon-chevron-down"></i>
-        </a>
-        <div class="sgds-accordion-body">
-            <p>your content 3</p>
-        </div>
-    </div>
-</div>
+#### **Ecosystem**
+
+**2. I am a food merchant and I have been supporting HPB’s Healthier Choice Symbol, and I choose to carry products with the Healthier Choice. Are there incentives for companies / consumers like us since we have been supporting Healthier Choice all along?**
+
+Answer here
+
+#### **Enrolment**
+
+**3. In my family of three siblings, as the firstborn, I take primary responsibility for my elderly parents’ welfare including their visits to the doctor when they are unwell. But they live with my youngest sibling across the island. How do we decide to enrol into Healthier SG in future?**
+
+Answer here
+
+#### **General**
+
+**4. Under the Healthier SG initiative where we get paired with a GP, can our GP also refer us to specialists at public hospitals? Currently, we need the polyclinic doctor’s referral for such.**
+
+Answer here

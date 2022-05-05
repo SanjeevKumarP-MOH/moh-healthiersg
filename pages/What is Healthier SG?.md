@@ -11,11 +11,11 @@ But a good healthcare system is not the end. We need to move towards better heal
 
 With Healthier SG, we will enable each Singaporean to:
 
-a)	Know their chosen family physician who will provide care for them
+a)	Know their chosen family physician who will provide care for them.
 
-b)	Know what preventive care steps they can take to improve their health 
+b)	Know what preventive care steps they can take to improve their health. 
 
-c)	Know that they can take steps for better health any time they want 
+c)	Know that they can take steps for better health any time they want. 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6tHRIJW7R-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,5 +58,5 @@ We welcome your views on [Healthier SG](https://form.gov.sg/#!/6254f4af045bce001
 
 Meanwhile, 
 * Click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life) to check if you are eligible for affordable health screening under Screen for Life, if you have yet to complete it. 
-* Visit a regular family doctor, so you know who to enrol with when the programme is launched; or recommend one to your friend 
+* Visit a regular family doctor, so you know who to enrol with when the programme is launched; or recommend one to your friend. 
 * Continue to stay healthy and download [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) and [Health Hub](https://www.healthhub.sg/) for more information!

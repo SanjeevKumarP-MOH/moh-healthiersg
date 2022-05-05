@@ -34,7 +34,7 @@ sections:
       button: Share your views here
       url: https://form.gov.sg/#!/6254f4af045bce0012fc5a8b
       alt: Healthier SG survey
-      image: /images/HSG_survey.jpeg
+      image: /images/HSG_survey.png
       description: We'd love to hear from you.
   - infobar:
       title: Healthier SG Conversations

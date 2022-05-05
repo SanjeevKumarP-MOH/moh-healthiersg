@@ -24,11 +24,10 @@ sections:
       background: /images/healthier SG_Web banner-text 1.png
   - infopic:
       title: What does Healthier SG mean for you and me?
-      subtitle: healthier SG interstitials
       button: view more
-      url: https://www.youtube.com/watch?v=Yq4n_rpM-so&list=PLNlBse3NXZj8P6DDiolYHP6hfabEhyhtM&index=1
+      url: https://www.youtube.com/watch?v=6tHRIJW7R-A
       alt: Image alt text
-      image: /images/HSG_Interstitials_1.png
+      image: /images/Min's screengrab.png
   - infopic:
       title: Have views on how we can build a Healthier SG?
       button: Share your views here

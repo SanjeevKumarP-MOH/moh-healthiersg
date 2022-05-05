@@ -21,7 +21,7 @@ sections:
           description: Posters, videos, infographics
           url: /resource/
       url: /about
-      background: /images/healthier SG_Web banner-text 1.png
+      background: /images/final banner.png
   - infopic:
       title: What does Healthier SG mean for you and me?
       button: view more

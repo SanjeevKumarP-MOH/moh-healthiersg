@@ -20,8 +20,7 @@ sections:
         - title: Resources
           description: Posters, videos, infographics
           url: /resource/
-      background: /images/healthier SG_Web banner-blank.jpg
-      title: HEALTHIER YOU, WITH HEALTHIER SG
+      background: /images/HSG_Banner_27 Apr.png
   - infopic:
       title: What does Healthier SG mean for you and me?
       subtitle: healthier SG interstitials

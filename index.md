@@ -27,7 +27,7 @@ sections:
       button: view more
       url: https://www.youtube.com/watch?v=6tHRIJW7R-A
       alt: Image alt text
-      image: /images/Min's screengrab.png
+      image: /images/Min's screengrab 2.png
   - infopic:
       title: Have views on how we can build a Healthier SG?
       button: Share your views here

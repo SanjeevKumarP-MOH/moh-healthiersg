@@ -54,7 +54,7 @@ Read more on Healthier SG from the [Health Minister’s Committee of Supply 2022
 
 #### What can you do now
 
-We welcome your views on Healthier SG to help shape a Healthier You, with Healthier SG. 
+We welcome your views on [Healthier SG](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) to help shape a Healthier You, with Healthier SG. 
 
 Meanwhile, 
 * Click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life) to check if you are eligible for affordable health screening under Screen for Life, if you have yet to complete it. 

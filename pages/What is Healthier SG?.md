@@ -42,7 +42,7 @@ For those who are more senior, the regional health clusters and the family physi
 
 #### National Healthier SG Enrolment Programme
 
-All these elements come together in the national Healthier SG enrolment programme. Each resident will be enrol with a GP clinic of their choice. 
+All these elements come together in the national Healthier SG enrolment programme. Each resident will be enrolled with a GP clinic of their choice. 
 
 With this, each resident will be kept updated on the recommended health screening and vaccinations. Starting early on preventive care will help reduce health risks, identify early developing conditions and make timely interventions.
 

@@ -3,37 +3,30 @@ title: What is Healthier SG?
 permalink: /about/
 description: ""
 ---
-
 **Healthier Singapore** is our push to help all Singaporeans take steps for better health, anchoring in the adage “Prevention is better than cure”. 
 
-From healthcare to health. 
+In the last decade, we looked beyond healthcare to health, and have built a good healthcare system.
 
-We have built a good healthcare system. 
+But a good healthcare system is not the end. We need to move towards better health and quality of life for each of us. 
 
-But better health is not just a healthcare system. It is about better health and quality of life for each of us. 
+With Healthier SG, we will enable each Singaporean to:
 
-With Healthier SG, we will work with Singaporeans to understand how we can better care for ourselves and our health. And have more time and energy to do the things that we want.
+a)	Know their chosen family physician who will provide care for them
 
-With Healthier SG, we will enable each Singaporean to
-
-a)	Know who is the doctor who cares for them
-
-b)	Know what preventive health steps they can take to improve their help 
+b)	Know what preventive care steps they can take to improve their health 
 
 c)	Know that they can take steps for better health any time they want 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6tHRIJW7R-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### One GP and One Care Plan for Every One
+#### One GP and One Health Plan for Every One
 
 Central to Healthier SG is enabling a trusted lifelong relationship between each Singaporean and their Family Physician.
 
-* Each of us will be encouraged to visit the same family doctor regularly for all their care needs and discuss their health goals.
-* Each of us will be able to visit their doctor to discuss more than just their current health condition, but to discuss how they can improve their health and their concerns at each stage of life. 
-Singaporeans will be encouraged to visit the same family doctor regularly for all their care needs and discuss their health goals.
-
-Each of us will work together with our family physician to develop a personalised care plan, with a focus on preventive health such as nationally recommended health screenings and vaccinations. 
+* They will work with their family physician to develop a personalised health plan, with a focus on preventive health such as adherence to nationally recommended health screenings and vaccinations. 
+* They will be encouraged to visit the same family physician regularly for all their care needs and discuss their health goals. 
+* They will be able to visit their family physician to discuss their current health condition and how they can improve their health and concerns at each stage of life. 
 
 #### An Ecosystem of Support for Better Health 
 

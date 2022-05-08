@@ -11,9 +11,9 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Weekends and Public Holidays
+        description: "Weekends and Public Holidays: Closed"
     maps_link: ""
-    title: Ministry of Health
+    title: Mailing Address
 contacts:
   - content:
       - phone: +65 6325 9220

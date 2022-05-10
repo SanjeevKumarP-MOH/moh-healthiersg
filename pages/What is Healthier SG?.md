@@ -29,7 +29,7 @@ We want all Singaporeans to have a trusted and lifelong relationship with your f
 
 #### An Ecosystem of Support for Better Health 
 
-The three regional health clusters – SingHealth, National University Health System (NUHS), and National Healthcare Group (NHG) will work towards developing an integrated health and social ecosystem within their region. 
+The three regional health clusters – [SingHealth](https://www.singhealth.com.sg/), [National University Health System (NUHS)](https://www.nuhs.edu.sg/) and [National Healthcare Group (NHG)](https://corp.nhg.com.sg/) will work towards developing an integrated health and social ecosystem within their region. 
 
 They will partner agencies such as the [Health Promotion Board (HPB)](https://hpb.gov.sg/), [Agency for Integrated Care (AIC)](https://www.aic.sg/), [People’s Association (PA)](https://www.pa.gov.sg/), [Sports SG](https://www.myactivesg.com/), [National Parks Board (NParks)](https://www.nparks.gov.sg/) and social and community partners to support your health goals. 
 

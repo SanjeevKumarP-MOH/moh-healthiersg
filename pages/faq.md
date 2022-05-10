@@ -15,7 +15,7 @@ You can contribute your views on Healthier SG via our online survey [here](https
 You can also [register your interest](https://go.gov.sg/hsginterest) to participate in our Healthier SG Conversations coming up. 
 In the longer term, as part of Healthier SG, we hope that ground-up initiatives can form part of a supportive landscape of services in the community that can encourage individuals to take charge of their health. We will create opportunities to do so at multiple levels, working through our healthcare clusters. 
 
-Do stay tuned for updates via [Facebook](https://www.facebook.com/sghealthministry) | [Twitter](https://twitter.com/sporeMOH) | [Instagram](https://www.instagram.com/moh_singapore/) | [Telegram](https://t.me/MOHsingapore) | [YouTube](https://www.youtube.com/user/MOHSingapore)
+Do stay tuned for updates via [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)
 
 #### **Ecosystem**
 **2. What is the scope of preventive health measures in enrolment and primary care?**

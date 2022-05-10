@@ -6,28 +6,52 @@ permalink: /faq/
 
 #### **Community Involvement**
 
-**1. I read with interest the news about Singapore’s Healthier SG initiative. My friends and I are involved in our learning institution’s student interest group and wish to contribute to the Healthier SG strategy of delivering more coordinated care. How can we sign up?**
+**1. We wish to contribute to the Healthier SG strategy of delivering more coordinated care. How can we sign up?**
 
-The Healthier SG Strategy represents our collective desire to shape the health of our nation - your health, and that of your loved ones and future generations. Your perspectives and views towards the Healthier SG Strategy are key to helping us build a better nation of healthier citizens and propel towards change!
+Your perspectives and views are key to helping us shape the Healthier SG strategy and the health of our nation – for yourself, your loved ones, and future generations. 
 
-You and your friends are welcome to contribute your views for Singapore’s Healthier SG via our online survey here: [to add the link]
+You can contribute your views on Healthier SG via our online survey [here](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b). 
 
-You can also participate in our focus groups coming up – stay tuned to our social media posts!
+You can also [register your interest](https://go.gov.sg/hsginterest) to participate in our Healthier SG Conversations coming up. 
+In the longer term, as part of Healthier SG, we hope that ground-up initiatives can form part of a supportive landscape of services in the community that can encourage individuals to take charge of their health. We will create opportunities to do so at multiple levels, working through our healthcare clusters. 
+
+Do stay tuned for updates via [Facebook](https://www.facebook.com/sghealthministry) | [Twitter](https://twitter.com/sporeMOH) | [Instagram](https://www.instagram.com/moh_singapore/) | [Telegram](https://t.me/MOHsingapore) | [YouTube](https://www.youtube.com/user/MOHSingapore)
 
 #### **Ecosystem**
+**2. What is the scope of preventive health measures in enrolment and primary care?**
 
-**2. I am a food merchant and I have been supporting HPB’s Healthier Choice Symbol, and I choose to carry products with the Healthier Choice. Are there incentives for companies / consumers like us since we have been supporting Healthier Choice all along?**
+Each individual will meet with their family doctor for a first visit after enrolment and discuss the relevant preventive health measures. This could comprise recommendations on nationally recommended screening and vaccinations and increasing physical activity and improving diet. 
 
-Answer here
+**3. I am a food merchant and want to support healthy eating. What can I look forward to, as part of Healthier SG?**
+
+Today, the Health Promotion Board (HPB) has various programmes to support merchants who carry healthier F&B products. These include:
+
+* The Healthier Choice Symbol programme, which enables you to reach more consumers through the *[Eat, Drink, Shop Healthy Challenge](https://www.healthhub.sg/programmes/136/eat-drink-shop-healthy-challenge)* by rewarding consumers for choosing healthier options, thereby promoting your brand and growing the sales of your products. You can find out if your company’s product is eligible to carry the Healthier Choice Symbol by looking at the [Healthier Choice Symbol Nutrition Guidelines](https://www.hpb.gov.sg/docs/default-source/newsroom/hcs-nutrient-guidelines-revised-april-2020v2.pdf?sfvrsn=a45eaa42_2). 
+
+* The Healthier Dining Programme, which offers various funding schemes and grants to F&B operators who work with HPB to offer lower-calorie options and dishes with healthier ingredients are part of their core menu offerings.  
+
+Stay tuned for future developments, and we encourage you to share any [feedback](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) you might have, with us.
 
 #### **Enrolment**
 
-**3. In my family of three siblings, as the firstborn, I take primary responsibility for my elderly parents’ welfare including their visits to the doctor when they are unwell. But they live with my youngest sibling across the island. How do we decide to enrol into Healthier SG in future?**
+**4. What is Healthier SG? How will Healthier SG help me?**
 
-Answer here
+Healthier SG focuses on supporting you to build a long-term relationship with a regular family doctor  and to take steps for better health for yourself.  Studies have shown that people who go to one family doctor consistently, are generally healthier and have fewer hospitalisation and emergency department visits.
 
-#### **General**
+The relevant health cluster will partner your family doctor to support you, such as via regular reminders and appointments for nationally recommended health screenings and vaccinations, link-ups with community interest or peer support groups and more coordinated care across different providers. 
 
-**4. Under the Healthier SG initiative where we get paired with a GP, can our GP also refer us to specialists at public hospitals? Currently, we need the polyclinic doctor’s referral for such.**
+Under Healthier SG, we hope to move beyond transactional care where patients receive treatment only for their presenting complaint, to holistic care supported by your family doctor, clusters, and other care providers.
 
-Answer here
+**5. When will the national enrolment programme be launched?**
+
+MOH is consulting the key stakeholders including the public and GPs, before finalising the details, and will share more details in the White Paper. 
+
+**6. My siblings, parents and I live at different parts of the island. How do we decide which GP to enrol with?**
+
+Under Healthier SG, you will have free choice to enrol with a GP/clinic of your choice. This can mean a GP further away from your home. 
+
+**7.  If I enrol with one doctor under Healthier SG, can I still see other doctors? Will I still be able to use CHAS/Medisave at other doctors?**
+
+You will be encouraged to visit your enrolled clinic for all your medical needs for continuity of care, as far as possible. If there is a need to visit other doctors, you can also do so. 
+
+The current CHAS benefits will still be available at all CHAS clinics, including those you are not enrolled at.

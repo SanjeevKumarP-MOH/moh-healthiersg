@@ -11,9 +11,9 @@ With Healthier SG, we will enable all Singaporeans to
 
 a)	Know your chosen family physician who will provide care for you
 
-b)	Know what preventive care steps you can take to improve their health 
+b)	Know what preventive care steps you can take to improve your health 
 
-c)	Know that you can take steps for better health any time they want
+c)	Know that you can take steps for better health any time you want
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6tHRIJW7R-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -23,7 +23,7 @@ We want all Singaporeans to have a trusted and lifelong relationship with your f
 
 * Your family physician will work with you to develop a personalised health plan. Based on your profile, you will be encouraged to go for nationally recommended health screenings and vaccinations. 
 
-* You will be encouraged to visit your chosen family physician regularly for all their care needs and discuss their health goals.
+* You will be encouraged to visit your chosen family physician regularly for all your care needs and discuss your health goals.
 
 * Across every stage of your life, your chosen family physician will discuss your health condition with you and address any health concerns you may have. 
 

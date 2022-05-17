@@ -37,8 +37,7 @@ sections:
       description: We'd love to hear from you.
   - infobar:
       title: Healthier SG Conversations
-      description: We invite the public to share their views through in-person
-        engagement sessions.
+      description: We invite you to share your views through in-person engagement sessions.
       button: To find out more
       url: https://form.gov.sg/#!/6261f202b91a650012d3e3b5
 ---

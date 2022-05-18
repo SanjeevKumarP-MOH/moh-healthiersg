@@ -2,11 +2,46 @@
 title: FAQ
 permalink: /faq/
 ---
-
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+#### **Community Involvement**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+**1. We wish to contribute to the Healthier SG strategy of delivering more coordinated care. How can we sign up?**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+Your perspectives and views are key to helping us shape the Healthier SG strategy and the health of our nation – for yourself, your loved ones, and future generations. 
+
+You can contribute your views on Healthier SG via our online survey [here](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b). 
+
+You can also [register your interest](https://go.gov.sg/hsginterest) to participate in our Healthier SG Conversations coming up. 
+In the longer term, as part of Healthier SG, we hope that ground-up initiatives can form part of a supportive landscape of services in the community that can encourage you to take charge of your health. We will create opportunities to do so at multiple levels, working through our healthcare clusters. 
+
+Do stay tuned for updates via [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)
+
+#### **Ecosystem**
+**2. What is the scope of preventive health measures in enrolment and primary care?**
+
+Each individual will meet with their family doctor for a first visit after enrolment and discuss the relevant preventive health measures. This could comprise recommendations on nationally recommended screening and vaccinations and increasing physical activity and improving diet. 
+
+#### **Enrolment**
+
+**3. What is Healthier SG? How will Healthier SG help me?**
+
+Healthier SG focuses on supporting you to build a long-term relationship with a regular family doctor and to take steps for better health for yourself. Studies have shown that people who go to one family doctor consistently, are generally healthier and have fewer hospitalisation and emergency department visits.
+
+The relevant health cluster will partner your family doctor to support you, such as via regular reminders and appointments for nationally recommended health screenings and vaccinations, link-ups with community interest or peer support groups and more coordinated care across different providers. 
+
+Under Healthier SG, we hope to move beyond transactional care where you receive treatment only for your presenting complaint, to holistic care supported by your family doctor, clusters, and other care providers.
+
+**4. When will the national enrolment programme be launched?**
+
+MOH is consulting the key stakeholders including the public and GPs, before finalising the details, and will share more details in the White Paper. 
+
+**5. My siblings, parents and I live at different parts of the island. How do we decide which GP to enrol with?**
+
+Under Healthier SG, you will have free choice to enrol with a GP/clinic of your choice. This can mean a GP further away from your home. 
+
+**6.  If I enrol with one doctor under Healthier SG, can I still see other doctors? Will I still be able to use CHAS/Medisave at other doctors?**
+
+You will be encouraged to visit your enrolled clinic for all your medical needs for continuity of care, as far as possible. If there is a need to visit other doctors, you can also do so. 
+
+The current CHAS benefits will still be available at all CHAS clinics, including those you are not enrolled at.

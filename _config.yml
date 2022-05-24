@@ -54,4 +54,4 @@ staging: https://moh-healthiersg-staging.netlify.app
 prod: https://moh-healthiersg-prod.netlify.app
 is_government: true
 shareicon: /images/MOHShareicon.png
-google_analytics: G-T7RVVLC2DX
+google_analytics: UA-56164365-7

@@ -5,7 +5,9 @@ description: ""
 ---
 ### 5 engagement sessions, close to 500 participants
 
-Since the launch of our HealthierSG public consultation on 18 May, close to 500 Singaporeans have joined us physically at our engagement sessions, and over 2,500 have contributed their views via our online survey. Most of the feedback concerned having a dedicated doctor or clinic, preventive health plan, and community support. 
+Since the launch of our HealthierSG public consultation on 18 May, close to 500 Singaporeans have joined us physically at our engagement sessions, and over 2,500 have contributed their views via our online survey. 
+
+Most of the feedback concerned having a dedicated doctor or clinic, preventive health plan, and community support. 
 
 These views and suggestions are valuable, to help us get a sense of what matters most to people, and how best to design the scheme to make it work. It will shape the White Paper to be tabled in Parliament later this year. 
 

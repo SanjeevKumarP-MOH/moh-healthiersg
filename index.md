@@ -11,12 +11,12 @@ sections:
         - title: What is Healthier SG?
           description: Everything you need to know
           url: /about/
-        - title: Healthier SG Questionnaire
+        - title: Healthier SG Survey
           description: Share your views here
           url: https://form.gov.sg/6254f4af045bce0012fc5a8b
         - title: Healthier SG Conversations
-          description: Join our public engagements
-          url: https://form.gov.sg/6261f202b91a650012d3e3b5
+          description: Engagement session highlights
+          url: /engagementhighlights
         - title: Resources
           description: Posters, videos, infographics
           url: /resource/

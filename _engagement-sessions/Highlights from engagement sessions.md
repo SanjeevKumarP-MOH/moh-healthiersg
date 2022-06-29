@@ -9,7 +9,7 @@ Since the launch of our HealthierSG public consultation on 18 May, close to 500 
 
 These views and suggestions are valuable, to help us get a sense of what matters most to people, and how best to design the scheme to make it work. It will shape the White Paper to be tabled in Parliament later this year. 
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/jj7KnNj7IVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/jj7KnNj7IVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 ### Hear from our participants!

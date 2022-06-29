@@ -15,7 +15,7 @@ sections:
           description: Share your views here
           url: https://form.gov.sg/6254f4af045bce0012fc5a8b
         - title: Healthier SG Conversations
-          description: Join our public engagements
+          description: Engagement session highlights
           url: https://form.gov.sg/6261f202b91a650012d3e3b5
         - title: Resources
           description: Posters, videos, infographics

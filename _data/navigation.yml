@@ -4,8 +4,8 @@ links:
     url: /about/
   - title: Questionnaire
     url: https://form.gov.sg/#!/6254f4af045bce0012fc5a8b
-  - title: Public Engagement
-    url: https://form.gov.sg/6261f202b91a650012d3e3b5
+  - title: Public Engagements
+    collection: public-engagement
   - title: Resources
     resource_room: true
   - title: FAQ

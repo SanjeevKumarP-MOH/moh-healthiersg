@@ -12,7 +12,7 @@ Your perspectives and views are key to helping us shape the Healthier SG strateg
 
 You can contribute your views on Healthier SG via our online survey [here](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b). 
 
-You can also [register your interest](https://go.gov.sg/hsginterest) to participate in our Healthier SG Conversations coming up. 
+You can also [register your interest](https://go.gov.sg/hsginterest) to participate in our Healthier SG Conversations. 
 In the longer term, as part of Healthier SG, we hope that ground-up initiatives can form part of a supportive landscape of services in the community that can encourage you to take charge of your health. We will create opportunities to do so at multiple levels, working through our healthcare clusters. 
 
 Do stay tuned for updates via [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)

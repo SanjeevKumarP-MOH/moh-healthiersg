@@ -38,3 +38,17 @@ c)	明白您可以在任何时候采取行动来改善健康状况
 如果您比较年长，医疗集群和您的全科医生将提供建议，让您可以参加适合您的保健活动和计划，例如到您住家附近的乐龄日间护理中心参与活动。
 
 更多有关健康SG计划的详情，请参阅[卫生部长在2022年财政预算拨款委员会辩论中发表的讲话](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022)。
+
+<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+#### 您现在可以采取的行动
+
+We welcome your views on Healthier SG to help shape a Healthier You.
+我们欢迎您对[健康SG计划提出意见](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) ，让我们助您一臂之力，塑造更健康的您。
+
+与此同时，
+
+
+* 如果您还未做过“定期体检，益您一生”的体检项目，请点击[此处](https://www.healthhub.sg/programmes/61/Screen_for_Life) 查看您是否符合资格，可以在进行一些体检项目时，享有政府津贴。
+
+* 继续保持健康，并下载[“健康365 (Healthy 365)”](https://hpb.gov.sg/healthy-living/healthy-365) 和[“保健资讯网 (Health Hub)”]( https://www.healthhub.sg/) 手机应用程序以了解更多详情!

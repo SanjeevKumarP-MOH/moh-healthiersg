@@ -32,3 +32,9 @@ c)	明白您可以在任何时候采取行动来改善健康状况
 本地三大医疗集群——[新保集团 (SingHealth)](https://www.singhealth.com.sg/)、[新加坡国立大学医学组织（NUHS）](https://www.nuhs.edu.sg/)和[国立健保集团（NHG）](https://corp.nhg.com.sg/)将为它们各自服务的区域，建立一个综合健康社会需求的生态系统。
 
 医疗集群将与[保健促进局（HPB）](https://hpb.gov.sg/)、[护联中心（AIC）](https://www.aic.sg/)、[人民协会（PA）](https://www.pa.gov.sg/)、[新加坡体育理事会（SportsSG)](https://www.myactivesg.com/)、[国家公园局（NParks）](https://www.nparks.gov.sg/)以及多个社会组织与社区伙伴合作，全力支持您实现健康目标。
+
+首先，您将有机会能够接触和参与更多不同的运动和体育活动，并且培养更健康的饮食习惯，选择最适合您的活动。
+
+如果您比较年长，医疗集群和您的全科医生将提供建议，让您可以参加适合您的保健活动和计划，例如到您住家附近的乐龄日间护理中心参与活动。
+
+更多有关健康SG计划的详情，请参阅[卫生部长在2022年财政预算拨款委员会辩论中发表的讲话](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022)。

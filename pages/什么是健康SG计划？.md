@@ -17,4 +17,12 @@ c)	明白您可以在任何时候采取行动来改善健康状况
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### 每个人固定看同一名全科医生，商讨制定一套保健护理计划
+#### 每个人固定看同一名全科医生，商讨制定一套保健护理计划
+
+我们希望所有国人都能与您的全科医生建立起长久互信的关系。
+
+* 您的全科医生将与您一起商讨，量身制定一套适合您的保健护理计划。医生将根据您的健康状况，鼓励您接受卫生部推荐的体检和疫苗接种。
+
+* 我们鼓励您定期去看您选定的的全科医生，以满足您所有的医疗护理需求，并且商讨制定您的健康目标。
+
+* 在您生命中的每个阶段，您的全科医生将与您讨论您的健康状况，并针对您可能面对的任何健康问题制定对策。

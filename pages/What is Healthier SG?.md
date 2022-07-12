@@ -3,6 +3,8 @@ title: What is Healthier SG?
 permalink: /about/
 description: ""
 ---
+Click here for [Chinese](/about-cn), Malay, Tamil
+
 **Healthier SG** will help all Singaporeans take steps towards better health.  
 
 We have built a good healthcare system in Singapore, but we need to focus on better health and quality of life for everyone. 

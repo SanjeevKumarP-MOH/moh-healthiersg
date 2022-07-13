@@ -16,7 +16,6 @@ Anda boleh menyumbang pandangan anda mengenai SG yang Lebih Sihat melalui tinjau
 Anda juga boleh [mendaftar minat](https://go.gov.sg/hsginterest) anda untuk menyertai Perbualan SG yang Lebih Sihat kami. Your perspectives and views are key to helping us shape the Healthier SG strategy and the health of our nation – for yourself, your loved ones, and future generations. 
 
 Nantikan kemas kini melalui [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)
-
 #### **Ekosistem**
 **2. Berkenaan dengan pendaftaran penjagaan utama, apakah beberapa langkah kesihatan pencegahan yang disertakan?**
 

@@ -3,7 +3,6 @@ title: Apa itu SG Yang Lebih Sihat?
 permalink: /about-ml
 description: ""
 ---
-
 Click here for [English](/about), [Chinese](/about-cn), Tamil
 
 **SG Yang Lebih Sihat** akan membantu semua rakyat Singapura mengambil langkah ke arah kesihatan yang lebih baik.
@@ -40,7 +39,7 @@ Sebagai permulaan, anda akan dapat mengakses lebih banyak aktiviti fizikal dan d
 
 Jika anda sudah berumur, kluster kesihatan serantau dan pakar perubatan keluarga anda akan menasihati anda tentang bagaimana anda boleh menghadiri aktiviti dan program yang sihat, seperti di pusat jagaan warga emas tempatan.
 
-Baca lebih lanjut tentang SG Yang Lebih Sihat daripada[Ucapan Jawatankuasa Perbekalan Menteri Kesihatan 2022](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
+Baca lebih lanjut tentang SG Yang Lebih Sihat daripada [Ucapan Jawatankuasa Perbekalan Menteri Kesihatan 2022](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

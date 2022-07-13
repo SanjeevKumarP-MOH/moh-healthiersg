@@ -3,7 +3,7 @@ title: Soalan Lazim
 permalink: /faq-ml
 description: ""
 ---
-Click here for [English](/faq), [Chinese](/faq-cn), Tamil
+Click here for [English](/faq), [Chinese](/faq-cn), [Tamil](/faq-ta)
 
 #### **Penglibatan Masyarakat**
 

@@ -40,7 +40,7 @@ Kementerian Kesihatan sedang berunding dengan pihak berkepentingan utama termasu
 
 Di bawah SG Yang Lebih Sihat anda akan mempunyai pilihan bebas untuk mendaftar dengan pengamal perubatan/klinik pilihan anda. Ini boleh bermakna GP yang lebih jauh dari rumah anda.
 
-**6.	Jika saya mendaftar dengan seorang doktor di bawah SG Yang Lebih Sihat, bolehkah saya berjumpa doktor lain? Adakah saya masih boleh menggunakan CHAS/Medisave dengan doktor lain?**
+**6.	Jika saya mendaftar dengan seorang doktor di bawah SG Yang Lebih Sihat, bolehkah saya berjumpa doktor lain? Adakah saya masih boleh menggunakan CHAS/MediSave dengan doktor lain?**
 
 Anda akan digalakkan untuk melawat klinik berdaftar anda untuk semua keperluan perubatan anda untuk kesinambungan penjagaan, sejauh mingkin. Sekiranya ada keperluan untuk melawat doktor lain, anda juga boleh berbuat demikian.
 

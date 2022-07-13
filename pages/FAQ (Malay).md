@@ -3,7 +3,7 @@ title: FAQ (Malay)
 permalink: /faq-ml
 description: ""
 ---
-Click here for [Chinese](/faq-cn), [Malay](/faq-ml), Tamil
+Click here for [English](/faq), [Chinese](/faq-cn), Tamil
 
 #### **Penglibatan Masyarakat**
 

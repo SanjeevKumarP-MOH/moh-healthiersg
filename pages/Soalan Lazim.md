@@ -3,7 +3,6 @@ title: Soalan Lazim
 permalink: /faq-ml
 description: ""
 ---
-
 Click here for [English](/faq), [Chinese](/faq-cn), Tamil
 
 #### **Penglibatan Masyarakat**
@@ -24,7 +23,7 @@ Setiap individu akan berjumpa dengan doktor keluarga mereka untuk lawatan pertam
 
 #### **Pendaftaran**
 
-**3. Apa itu SG yang Lebih Sihat? Bagaimanakah akanSG yang Lebih Sihat membantu saya?**
+**3. Apa itu SG yang Lebih Sihat? Bagaimanakah akan SG yang Lebih Sihat membantu saya?**
 
 SG yang Lebih Sihat memberi tumpuan dalam menyokong anda untuk membina hubungan jangka panjang dengan doktor keluarga biasa dan untuk mengambil langkah bagi kesihatan yang lebih baik untuk diri anda sendiri. Kajian telah menunjukkan bahawa orang yang berjumpa dengan seorang doktor keluarga secara konsisten, secara amnya lebih sihat dan kurang dimasukkan ke hospital serta bahagian kecemasan.
 

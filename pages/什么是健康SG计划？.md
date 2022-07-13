@@ -3,7 +3,7 @@ title: 什么是健康SG计划？
 permalink: /about-cn
 description: ""
 ---
-Click here for [English](https://moh-healthiersg-staging.netlify.app/about), [Malay](https://moh-healthiersg-staging.netlify.app/about-ml), Tamil
+Click here for [English](/about), [Malay](/about-ml), Tamil
 
 **健康SG**将协助所有国人采取实际步骤以保持和改善健康。
 

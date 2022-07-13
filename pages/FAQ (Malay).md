@@ -11,14 +11,9 @@ Click here for [English](/faq), [Chinese](/faq-cn), Tamil
 
 Perspektif dan pandangan anda adalah kunci untuk membantu kami membentuk strategi SG yang Lebih Sihat dan kesihatan negara kami – untuk diri anda sendiri, orang tersayang, dan generasi akan datang.
 
-Anda boleh menyumbang pandangan anda mengenai SG yang Lebih Sihat melalui tinjauan dalam talian kami di sini.
+Anda boleh menyumbang pandangan anda mengenai SG yang Lebih Sihat melalui tinjauan dalam talian kami [di sini](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b).
 
 Anda juga boleh [mendaftar minat](https://go.gov.sg/hsginterest) anda untuk menyertai Perbualan SG yang Lebih Sihat kami. Your perspectives and views are key to helping us shape the Healthier SG strategy and the health of our nation – for yourself, your loved ones, and future generations. 
-
-You can contribute your views on Healthier SG via our online survey [here](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b). 
-
-You can also [register your interest](https://go.gov.sg/hsginterest) to participate in our Healthier SG Conversations. 
-In the longer term, as part of Healthier SG, we hope that ground-up initiatives can form part of a supportive landscape of services in the community that can encourage you to take charge of your health. We will create opportunities to do so at multiple levels, working through our healthcare clusters. 
 
 Nantikan kemas kini melalui [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)
 

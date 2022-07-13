@@ -13,7 +13,7 @@ Perspektif dan pandangan anda adalah kunci untuk membantu kami membentuk strateg
 
 Anda boleh menyumbang pandangan anda mengenai SG Yang Lebih Sihat melalui tinjauan dalam talian kami [di sini](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b).
 
-Anda juga boleh [mendaftar minat](https://go.gov.sg/hsginterest) anda untuk menyertai Perbualan SG Yang Lebih Sihat kami. Your perspectives and views are key to helping us shape the Healthier SG strategy and the health of our nation – for yourself, your loved ones, and future generations. 
+Anda juga boleh [mendaftar minat](https://go.gov.sg/hsginterest) anda untuk menyertai Perbualan SG Yang Lebih Sihat kami. 
 
 Nantikan kemas kini melalui [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)
 #### **Ekosistem**

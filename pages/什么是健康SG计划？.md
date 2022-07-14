@@ -45,11 +45,11 @@ c)	明白您可以在任何时候采取行动来改善健康状况
 
 #### 您现在可以采取的行动
 
-我们欢迎您对健康SG计划[提出意见](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) ，让我们助您一臂之力，塑造更健康的您。
+我们欢迎您对健康SG计划[提出意见](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b)，让我们助您一臂之力，塑造更健康的您。
 
 与此同时，
 
 
 * 如果您还未做过“定期体检，益您一生”的体检项目，请点击[此处](https://www.healthhub.sg/programmes/61/Screen_for_Life) 查看您是否符合资格，可以在进行一些体检项目时，享有政府津贴。
 
-* 继续保持健康，并下载[“健康365 (Healthy 365)”](https://hpb.gov.sg/healthy-living/healthy-365) 和[“保健资讯网 (Health Hub)”]( https://www.healthhub.sg/) 手机应用程序以了解更多详情!
+* 继续保持健康，并下载[“健康365 (Healthy 365)”](https://hpb.gov.sg/healthy-living/healthy-365)和[“保健资讯网 (Health Hub)”]( https://www.healthhub.sg/) 手机应用程序以了解更多详情!

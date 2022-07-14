@@ -45,7 +45,6 @@ c)	明白您可以在任何时候采取行动来改善健康状况
 
 #### 您现在可以采取的行动
 
-We welcome your views on Healthier SG to help shape a Healthier You.
 我们欢迎您对健康SG计划[提出意见](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) ，让我们助您一臂之力，塑造更健康的您。
 
 与此同时，

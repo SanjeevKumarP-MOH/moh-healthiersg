@@ -2,7 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
-### **FAQ**
+Click here for [Chinese](/faq-cn), [Malay](/faq-ml), [Tamil](/faq-ta)
 
 #### **Community Involvement**
 

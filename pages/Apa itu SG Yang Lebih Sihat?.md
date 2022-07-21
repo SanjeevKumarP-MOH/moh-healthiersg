@@ -5,50 +5,50 @@ description: ""
 ---
 Click here for [English](/about), [Chinese](/about-cn), [Tamil](/about-ta)
 
-**SG Yang Lebih Sihat** akan membantu semua rakyat Singapura mengambil langkah ke arah kesihatan yang lebih baik.
+**SG Yang Lebih Sihat** akan membantu semua rakyat Singapura berusaha ke arah kesihatan yang lebih baik.
 
-Kita telah membina sistem penjagaan kesihatan yang baik di Singapura, tetapi kita perlu memberi tumpuan kepada kesihatan dan kualiti hidup yang lebih baik untuk semua orang.
+Kami telah membangunkan sistem penjagaan kesihatan yang baik di Singapura, tetapi kita perlu memberi tumpuan kepada kesihatan dan mutu kehidupan yang lebih baik untuk semua.
 
-Dengan SG Yang Lebih Sihat, semua rakyat Singapura dapat
+Dengan adanya SG Yang Lebih Sihat, kami akan dapat membantu semua rakyat Singapura untuk
 
-a)	Mengenali pakar perubatan keluarga pilihan anda yang akan merawat anda
+a)	Mengenali doktor keluarga pilihan anda yang akan menyediakan penjagaan kesihatan untuk anda
 
-b)	Mengetahui langkah penjagaan pencegahan yang anda boleh ambil untuk meningkatkan kesihatan anda
+b)	Mengetahui langkah-langka pencegahan yang anda boleh ambil untuk memperbaiki tahap kesihatan anda
 
-c)	Mengetahui bahawa anda boleh mengambil langkah untuk kesihatan yang lebih baik pada bila-bila masa yang anda mahu
+c)	Mengetahui bahawa anda boleh mengambil langkah-langkah untuk menikmati tahap kesihatan yang lebih baik pada bila-bila masa yang anda mahu
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-#### Satu Pakar Perubatan Keluarga dan Satu Pelan Kesihatan untuk Semua Orang
+#### Satu Doktor Keluarga dan Satu Pelan Kesihatan untuk Semua
 
-Kita mahu semua rakyat Singapura mempunyai hubungan yang dipercayai dan sepanjang hayat dengan pakar perubatan keluarga anda.
+Kita mahu semua rakyat Singapura menjalin hubungan sepanjang hayat yang boleh dipercayai dengan doktor keluarga anda.
 
-* Pakar perubatan keluarga anda akan bekerjasama dengan anda untuk membangunkan pelan kesihatan yang diperibadikan. Berdasarkan profil anda, anda akan digalakkan untuk menjalani pemeriksaan kesihatan dan vaksinasi yang disyorkan di peringkat nasional.
+* Doktor keluarga anda akan bekerjasama dengan anda untuk menyediakan pelan kesihatan peribadi. Berdasarkan profil anda, anda akan digalakkan untuk menjalani pemeriksaan kesihatan dan vaksinasi di peringkat nasional yang disyorkan.
 
-*	Anda akan digalakkan untuk melawat pakar perubatan keluarga pilihan anda secara berkala untuk semua keperluan penjagaan anda dan membincangkan matlamat kesihatan anda.
+*	Anda akan digalakkan untuk mengunjingi doktor keluarga pilihan anda secara tetap untuk semua keperluan penjagaan anda dan membincangkan matlamat kesihatan anda.
 
-*	Di setiap peringkat kehidupan anda, pakar perubatan keluarga pilihan anda akan membincang keadaan kesihatan anda dengan anda dan menangani sebarang kebimbangan kesihatan yang mungkin anda hadapi.
+*	Pada setiap tahap kehidupan anda, doktor keluarga pilihan anda akan berbincang dengan anda tentang keadaan kesihatan anda dan menangani sebarang kesihatan yang anda mungkin hadapi.
 
 #### Ekosistem Sokongan untuk Kesihatan yang Lebih Baik
 
-Tiga kluster kesihatan serantau – [SingHealth](https://www.singhealth.com.sg/), [Sistem Kesihatan Universiti Nasional (NUHS)](https://www.nuhs.edu.sg/) dan [Kumpulan Penjagaan Kesihatan Kebangsaan (NHG)](https://corp.nhg.com.sg/) akan berusaha ke arah mengembangkan ekosistem kesihatan dan sosial bersepadu di kawasan mereka.
+Tiga kelompok kesihatan daerah – [SingHealth](https://www.singhealth.com.sg/), [Sistem Kesihatan Universiti Nasional (NUHS)](https://www.nuhs.edu.sg/) dan [Kumpulan Penjagaan Kesihatan Kebangsaan (NHG)](https://corp.nhg.com.sg/) akan berusaha untuk membangunkan ekosistem kesihatan dan sosial bersepadu dalam daerah mereka.
 
-Mereka akan bekerjasama dengan agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Sukan SG (SportsSG)](https://www.myactivesg.com/), [Lembaga Taman Negara (NParks)](https://nparks.gov.sg) serta rakan sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
+Mereka akan bekerjasama dengan agensi-agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Sukan SG (SportsSG)](https://www.myactivesg.com/), [Lembaga Taman Negara (NParks)](https://nparks.gov.sg) serta rakan kongsi sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
 
-Sebagai permulaan, anda akan dapat mengakses lebih banyak aktiviti fizikal dan diet yang lebih sihat, dan anda akan dapat memilih aktiviti yang paling sesuai untuk anda.
+Sebagai permulaan, anda akan dapat mengakses lebih banyak aktiviti fizikal dan pemakanan yang lebih sihat, dan anda boleh memilih aktiviti-aktiviti yang paling sesuai untuk anda.
 
-Jika anda sudah berumur, kluster kesihatan serantau dan pakar perubatan keluarga anda akan menasihati anda tentang bagaimana anda boleh menghadiri aktiviti dan program yang sihat, seperti di pusat jagaan warga emas tempatan.
+Jika anda sudah berumur, kelompok kesihatan daerah dan doktor keluarga anda akan menasihati anda tentang bagaimana anda boleh menyertai aktiviti-aktiviti dan program-program kesihatan, seperti yang disediakan di pusat penjagaan warga emas tempatan.
 
-Baca lebih lanjut tentang SG Yang Lebih Sihat daripada [Ucapan Jawatankuasa Perbekalan Menteri Kesihatan 2022](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
+Ketahui lebih lanjut tentang SG Yang Lebih Sihat melalui [ucapan Jawatankuasa Perbekalan 2022 yang disampaikan oleh Menteri Kesihatan](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 #### Apa yang boleh anda lakukan sekarang
 
-Kami mengalu-alukan pandangan anda mengenai [SG Yang Lebih Sihat](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) untuk membantu membentuk Anda Yang Lebih Sihat.
+Kami mengalu-alukan pandangan anda mengenai [SG Yang Lebih Sihat](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) untuk membantu menjadikan Anda Lebih Sihat.
 
 Sementara itu,
 
-*	Klik [di sini](https://www.healthhub.sg/programmes/61/Screen_for_Life) untuk menyemak jika anda layak untuk menjalani pemeriksaan kesihatan mampu bayar di bawah Pemeriksaan Kesihatan Demi Kehidupan, jika anda masih belum melengkapkannya.
+*	Klik [di sini](https://www.healthhub.sg/programmes/61/Screen_for_Life) untuk mengetahui jika anda layak untuk menjalani pemeriksaan kesihatan pada harga yang berpatutan di bawah Pemeriksaan Kesihatan Demi Kehidupan, jika anda masih belum menjalaninya.
 
-*	Kekal sihat dan muat turun [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) dan [Health Hub](https://www.healthhub.sg/) untuk maklumat lanjut!
+*	Kekal sihat dan muat turun aplikasi [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) dan [Health Hub](https://www.healthhub.sg/) untuk maklumat lanjut!

@@ -5,15 +5,15 @@ description: ""
 ---
 Click here for [English](/about), [Chinese](/about-cn), [Tamil](/about-ta)
 
-**SG Yang Lebih Sihat** akan membantu semua rakyat Singapura mengambil langkah ke arah kesihatan yang lebih baik.
+**SG Yang Lebih Sihat** akan membantu semua rakyat Singapura berusaha ke arah kesihatan yang lebih baik.
 
-Kita telah membina sistem penjagaan kesihatan yang baik di Singapura, tetapi kita perlu memberi tumpuan kepada kesihatan dan kualiti hidup yang lebih baik untuk semua orang.
+Kami telah membangunkan sistem penjagaan kesihatan yang baik di Singapura, tetapi kita perlu memberi tumpuan kepada kesihatan dan mutu kehidupan yang lebih baik untuk semua.
 
-Dengan SG Yang Lebih Sihat, semua rakyat Singapura dapat
+Dengan adanya SG Yang Lebih Sihat, kami akan dapat membantu semua rakyat Singapura untuk
 
-a)	Mengenali pakar perubatan keluarga pilihan anda yang akan merawat anda
+a)	Mengenali doktor keluarga pilihan anda yang akan menyediakan penjagaan kesihatan untuk anda
 
-b)	Mengetahui langkah penjagaan pencegahan yang anda boleh ambil untuk meningkatkan kesihatan anda
+b)	Mengetahui langkah-langkahpenjagaan pencegahan yang anda boleh ambil untuk meningkatkan kesihatan anda
 
 c)	Mengetahui bahawa anda boleh mengambil langkah untuk kesihatan yang lebih baik pada bila-bila masa yang anda mahu
 

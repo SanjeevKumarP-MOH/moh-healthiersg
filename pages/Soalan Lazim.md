@@ -43,4 +43,4 @@ Di bawah SG Yang Lebih Sihat, anda  bebas memilih doktor swasta (GP) atau klinik
 
 Anda digalakkan untuk pergi ke klinik di mana  anda telah mendaftar untuk semua keperluan perubatan anda bagi memastikan kesinambungan penjagaan, seberapa boleh. Anda dibenarkan untuk mengunjungi doktor lain sekiranya ada keperluan. 
 
-Faedah-faedah CHAS yang sedia ada masih boleh digunakan di semua klinik CHAS, termasuk di klinik-klinik di mana anda tidak mendaftar. 
+Faedah-faedah CHAS yang sedia ada masih boleh digunakan di semua klinik CHAS, termasuk di klinik-klinik di mana anda tidak mendaftar.

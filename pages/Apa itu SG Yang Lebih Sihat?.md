@@ -45,10 +45,10 @@ Ketahui lebih lanjut tentang SG Yang Lebih Sihat melalui [ucapan Jawatankuasa Pe
 
 #### Apa yang boleh anda lakukan sekarang
 
-Kami mengalu-alukan pandangan anda mengenai [SG Yang Lebih Sihat](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) untuk membantu membentuk Anda Yang Lebih Sihat.
+Kami mengalu-alukan pandangan anda mengenai [SG Yang Lebih Sihat](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) untuk membantu menjadikan Anda Lebih Sihat.
 
 Sementara itu,
 
-*	Klik [di sini](https://www.healthhub.sg/programmes/61/Screen_for_Life) untuk menyemak jika anda layak untuk menjalani pemeriksaan kesihatan mampu bayar di bawah Pemeriksaan Kesihatan Demi Kehidupan, jika anda masih belum melengkapkannya.
+*	Klik [di sini](https://www.healthhub.sg/programmes/61/Screen_for_Life) untuk mengetahui jika anda layak untuk menjalani pemeriksaan kesihatan pada harga yang berpatutan di bawah Pemeriksaan Kesihatan Demi Kehidupan, jika anda masih belum menjalaninya.
 
-*	Kekal sihat dan muat turun [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) dan [Health Hub](https://www.healthhub.sg/) untuk maklumat lanjut!
+*	Kekal sihat dan muat turun aplikasi [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) dan [Health Hub](https://www.healthhub.sg/) untuk maklumat lanjut!

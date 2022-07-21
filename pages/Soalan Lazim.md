@@ -7,23 +7,23 @@ Click here for [English](/faq), [Chinese](/faq-cn), [Tamil](/faq-ta)
 
 #### **Penglibatan Masyarakat**
 
-**1. 	Kami ingin menyumbang kepada strategi SG Yang Lebih Sihat untuk memberikan penjagaan yang lebih selaras. Bagaimana kami boleh mendaftar?**
+**1. 	Kami ingin menyumbang kepada strategi SG Yang Lebih Sihat untuk menyediakan penjagaan yang lebih terselaras. Bagaimanakah kami boleh mendaftar?**
 
-Perspektif dan pandangan anda adalah kunci untuk membantu kami membentuk strategi SG Yang Lebih Sihat dan kesihatan negara kami – untuk diri anda sendiri, orang tersayang, dan generasi akan datang.
+Perspektif dan pandangan anda adalah penting untuk membantu kami membentuk strategi SG Yang Lebih Sihat dan tahap kesihatan negara kita – untuk diri anda sendiri, orang  yang anda sayangi, dan generasi akan datang.
 
 Anda boleh menyumbang pandangan anda mengenai SG Yang Lebih Sihat melalui tinjauan dalam talian kami [di sini](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b).
 
-Anda juga boleh [mendaftar minat](https://go.gov.sg/hsginterest) anda untuk menyertai Perbualan SG Yang Lebih Sihat kami. 
+Anda juga boleh [mendaftarkan minat](https://go.gov.sg/hsginterest) anda untuk menyertai perbincangan mengenai SG Yang Lebih Sihat kami. Dalam jangka masa panjang, sebagai sebahagian daripada usaha SG Yang Lebih Sihat ini, kami berharap inisiatif-inisiatif yang bermula daripada masyarakat boleh membentuk sebahagian daripada landskap sokongan bagi khidmat-khidmat dalam masyarakat yang boleh menggalakkan anda untuk menjaga kesihatan anda. Kami akan berusaha mewujudkan peluang-peluang untuk berbuat demikian di pelbagai peringkat melalui kelompok-kelompok penjagaan kesihatan kami.
 
-Nantikan kemas kini melalui [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)
+Ikuti perkembangan lanjut melalui [Facebook](https://www.facebook.com/sghealthministry),  [Twitter](https://twitter.com/sporeMOH), [Instagram](https://www.instagram.com/moh_singapore/), [Telegram](https://t.me/MOHsingapore), [YouTube](https://www.youtube.com/user/MOHSingapore)
 #### **Ekosistem**
-**2. Berkenaan dengan pendaftaran penjagaan utama, apakah beberapa langkah kesihatan pencegahan yang disertakan?**
+**2. Apakah skop langkah-langkah mencegah masalah kesihatan dalam pendaftaran dan penjagaan asas?**
 
-Setiap individu akan berjumpa dengan doktor keluarga mereka untuk lawatan pertama selepas pendaftaran dan membincangkan langkah-langkah kesihatan pencegahan yang berkaitan. Ini boleh merangkumi saranan mengenai pemeriksaan dan vaksinasi yang disyorkan di peringkat nasional dan meningkatkan aktiviti fizikal serta menambah baik diet. 
+Setiap individu akan berjumpa  doktor keluarga mereka untuk lawatan pertama selepas pendaftaran dan membincangkan langkah-langkah pencegahan yang relevan untuk menjaga kesiahatan. Ini boleh terdiri daripada saranan-saranan mengenai pemeriksaan dan vaksinasi yang disyorkan di peringkat nasional serta meningkatkan aktiviti fizikal dan memperbaiki makanan. 
 
 #### **Pendaftaran**
 
-**3. Apa itu SG Yang Lebih Sihat? Bagaimanakah akan SG Yang Lebih Sihat membantu saya?**
+**3. Apakah itu SG Yang Lebih Sihat? Bagaimana SG Yang Lebih Sihat  akan membantu saya?**
 
 SG Yang Lebih Sihat memberi tumpuan dalam menyokong anda untuk membina hubungan jangka panjang dengan doktor keluarga biasa dan untuk mengambil langkah bagi kesihatan yang lebih baik untuk diri anda sendiri. Kajian telah menunjukkan bahawa orang yang berjumpa dengan seorang doktor keluarga secara konsisten, secara amnya lebih sihat dan kurang dimasukkan ke hospital serta bahagian kecemasan.
 

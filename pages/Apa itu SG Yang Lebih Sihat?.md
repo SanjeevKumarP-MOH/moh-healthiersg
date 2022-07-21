@@ -13,21 +13,21 @@ Dengan adanya SG Yang Lebih Sihat, kami akan dapat membantu semua rakyat Singapu
 
 a)	Mengenali doktor keluarga pilihan anda yang akan menyediakan penjagaan kesihatan untuk anda
 
-b)	Mengetahui langkah-langkahpenjagaan pencegahan yang anda boleh ambil untuk meningkatkan kesihatan anda
+b)	Mengetahui langkah-langka pencegahan yang anda boleh ambil untuk memperbaiki tahap kesihatan anda
 
-c)	Mengetahui bahawa anda boleh mengambil langkah untuk kesihatan yang lebih baik pada bila-bila masa yang anda mahu
+c)	Mengetahui bahawa anda boleh mengambil langkah-langkah untuk menikmati tahap kesihatan yang lebih baik pada bila-bila masa yang anda mahu
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-#### Satu Pakar Perubatan Keluarga dan Satu Pelan Kesihatan untuk Semua Orang
+	#### Satu Doktor Keluarga dan Satu Pelan Kesihatan untuk Semua
 
-Kita mahu semua rakyat Singapura mempunyai hubungan yang dipercayai dan sepanjang hayat dengan pakar perubatan keluarga anda.
+Kita mahu semua rakyat Singapura menjalin hubungan sepanjang hayat yang boleh dipercayai dengan doktor keluarga anda.
 
-* Pakar perubatan keluarga anda akan bekerjasama dengan anda untuk membangunkan pelan kesihatan yang diperibadikan. Berdasarkan profil anda, anda akan digalakkan untuk menjalani pemeriksaan kesihatan dan vaksinasi yang disyorkan di peringkat nasional.
+* Doktor keluarga anda akan bekerjasama dengan anda untuk menyediakan pelan kesihatan peribadi. Berdasarkan profil anda, anda akan digalakkan untuk menjalani pemeriksaan kesihatan dan vaksinasi di peringkat nasional yang disyorkan.
 
-*	Anda akan digalakkan untuk melawat pakar perubatan keluarga pilihan anda secara berkala untuk semua keperluan penjagaan anda dan membincangkan matlamat kesihatan anda.
+*	Anda akan digalakkan untuk mengunjingi doktor keluarga pilihan anda secara tetap untuk semua keperluan penjagaan anda dan membincangkan matlamat kesihatan anda.
 
-*	Di setiap peringkat kehidupan anda, pakar perubatan keluarga pilihan anda akan membincang keadaan kesihatan anda dengan anda dan menangani sebarang kebimbangan kesihatan yang mungkin anda hadapi.
+*	Pada setiap tahap kehidupan anda, doktor keluarga pilihan anda akan berbincang dengan anda tentang keadaan kesihatan anda dan menangani sebarang kesihatan yang anda mungkin hadapi.
 
 #### Ekosistem Sokongan untuk Kesihatan yang Lebih Baik
 

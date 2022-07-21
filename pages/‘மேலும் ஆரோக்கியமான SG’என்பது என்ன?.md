@@ -39,7 +39,7 @@ c)	உங்கள் ஆரோக்கியத்தை மேம்படு
 
 நீங்கள் வயதில் பெரியவராக இருந்தால், நீங்கள் எவ்வாறு வட்டாரத்தில் உள்ள மூத்தோர் பராமரிப்பு நிலையம் போன்றவற்றில் நடைபெறும் சுகாதார நடவடிக்கைகள், திட்டங்கள் ஆகியவற்றில் கலந்துகொள்ளலாம் என்பது பற்றி வட்டாரச் சுகாதாரக் குழுமங்களும் உங்கள் குடும்ப மருத்துவரும் உங்களுக்கு அறிவுறுத்துவார்கள்.
 
-‘மேலும் ஆரோக்கியமான SG’ திட்டம் பற்றி 2022 வரவுசெலவுத் திட்ட ஒதுக்கீட்டுக் குழு விவாதத்திற்கான சுகாதார அமைச்சரின் உரையில் மேலும் தெரிந்துகொள்ளுங்கள்.
+‘மேலும் ஆரோக்கியமான SG’ திட்டம் பற்றி [2022 வரவுசெலவுத் திட்ட ஒதுக்கீட்டுக் குழு விவாதத்திற்கான சுகாதார அமைச்சரின் உரையில்](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022) மேலும் தெரிந்துகொள்ளுங்கள்.
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

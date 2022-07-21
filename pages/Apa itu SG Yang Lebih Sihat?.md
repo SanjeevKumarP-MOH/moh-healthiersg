@@ -31,15 +31,15 @@ Kita mahu semua rakyat Singapura menjalin hubungan sepanjang hayat yang boleh di
 
 #### Ekosistem Sokongan untuk Kesihatan yang Lebih Baik
 
-Tiga kluster kesihatan serantau – [SingHealth](https://www.singhealth.com.sg/), [Sistem Kesihatan Universiti Nasional (NUHS)](https://www.nuhs.edu.sg/) dan [Kumpulan Penjagaan Kesihatan Kebangsaan (NHG)](https://corp.nhg.com.sg/) akan berusaha ke arah mengembangkan ekosistem kesihatan dan sosial bersepadu di kawasan mereka.
+Tiga kelompok kesihatan daerah – [SingHealth](https://www.singhealth.com.sg/), [Sistem Kesihatan Universiti Nasional (NUHS)](https://www.nuhs.edu.sg/) dan [Kumpulan Penjagaan Kesihatan Kebangsaan (NHG)](https://corp.nhg.com.sg/) akan berusaha untuk membangunkan ekosistem kesihatan dan sosial bersepadu dalam daerah mereka.
 
-Mereka akan bekerjasama dengan agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Sukan SG (SportsSG)](https://www.myactivesg.com/), [Lembaga Taman Negara (NParks)](https://nparks.gov.sg) serta rakan sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
+Mereka akan bekerjasama dengan agensi-agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Sukan SG (SportsSG)](https://www.myactivesg.com/), [Lembaga Taman Negara (NParks)](https://nparks.gov.sg) serta rakan kongsi sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
 
-Sebagai permulaan, anda akan dapat mengakses lebih banyak aktiviti fizikal dan diet yang lebih sihat, dan anda akan dapat memilih aktiviti yang paling sesuai untuk anda.
+Sebagai permulaan, anda akan dapat mengakses lebih banyak aktiviti fizikal dan pemakanan yang lebih sihat, dan anda boleh memilih aktiviti-aktiviti yang paling sesuai untuk anda.
 
-Jika anda sudah berumur, kluster kesihatan serantau dan pakar perubatan keluarga anda akan menasihati anda tentang bagaimana anda boleh menghadiri aktiviti dan program yang sihat, seperti di pusat jagaan warga emas tempatan.
+Jika anda sudah berumur, kelompok kesihatan daerah dan doktor keluarga anda akan menasihati anda tentang bagaimana anda boleh menyertai aktiviti-aktiviti dan program-program kesihatan, seperti yang disediakan di pusat penjagaan warga emas tempatan.
 
-Baca lebih lanjut tentang SG Yang Lebih Sihat daripada [Ucapan Jawatankuasa Perbekalan Menteri Kesihatan 2022](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
+Ketahui lebih lanjut tentang SG Yang Lebih Sihat melalui [ucapan Jawatankuasa Perbekalan 2022 yang disampaikan oleh Menteri Kesihatan](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

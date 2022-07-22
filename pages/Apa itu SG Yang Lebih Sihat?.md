@@ -13,7 +13,7 @@ Dengan adanya SG Yang Lebih Sihat, kami akan dapat membantu semua rakyat Singapu
 
 a)	Mengenali doktor keluarga pilihan anda yang akan menyediakan penjagaan kesihatan untuk anda
 
-b)	Mengetahui langkah-langka pencegahan yang anda boleh ambil untuk memperbaiki tahap kesihatan anda
+b)	Mengetahui langkah-langkah pencegahan yang anda boleh ambil untuk memperbaiki tahap kesihatan anda
 
 c)	Mengetahui bahawa anda boleh mengambil langkah-langkah untuk menikmati tahap kesihatan yang lebih baik pada bila-bila masa yang anda mahu
 
@@ -25,15 +25,15 @@ Kita mahu semua rakyat Singapura menjalin hubungan sepanjang hayat yang boleh di
 
 * Doktor keluarga anda akan bekerjasama dengan anda untuk menyediakan pelan kesihatan peribadi. Berdasarkan profil anda, anda akan digalakkan untuk menjalani pemeriksaan kesihatan dan vaksinasi di peringkat nasional yang disyorkan.
 
-*	Anda akan digalakkan untuk mengunjingi doktor keluarga pilihan anda secara tetap untuk semua keperluan penjagaan anda dan membincangkan matlamat kesihatan anda.
+*	Anda akan digalakkan untuk mengunjungi doktor keluarga pilihan anda secara tetap untuk semua keperluan penjagaan kesihatan anda dan membincangkan matlamat kesihatan anda.
 
-*	Pada setiap tahap kehidupan anda, doktor keluarga pilihan anda akan berbincang dengan anda tentang keadaan kesihatan anda dan menangani sebarang kesihatan yang anda mungkin hadapi.
+*	Pada setiap tahap kehidupan anda, doktor keluarga pilihan anda akan berbincang dengan anda tentang keadaan kesihatan anda dan menangani sebarang masalah kesihatan yang anda mungkin hadapi.
 
 #### Ekosistem Sokongan untuk Kesihatan yang Lebih Baik
 
 Tiga kelompok kesihatan daerah – [SingHealth](https://www.singhealth.com.sg/), [Sistem Kesihatan Universiti Nasional (NUHS)](https://www.nuhs.edu.sg/) dan [Kumpulan Penjagaan Kesihatan Kebangsaan (NHG)](https://corp.nhg.com.sg/) akan berusaha untuk membangunkan ekosistem kesihatan dan sosial bersepadu dalam daerah mereka.
 
-Mereka akan bekerjasama dengan agensi-agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Sukan SG (SportsSG)](https://www.myactivesg.com/), [Lembaga Taman Negara (NParks)](https://nparks.gov.sg) serta rakan kongsi sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
+Mereka akan bekerjasama dengan agensi-agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Majlis Sukan SG (SportsSG)](https://www.myactivesg.com/), [Lembaga Taman Negara (NParks)](https://nparks.gov.sg) serta rakan kongsi sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
 
 Sebagai permulaan, anda akan dapat mengakses lebih banyak aktiviti fizikal dan pemakanan yang lebih sihat, dan anda boleh memilih aktiviti-aktiviti yang paling sesuai untuk anda.
 
@@ -45,7 +45,7 @@ Ketahui lebih lanjut tentang SG Yang Lebih Sihat melalui [ucapan Jawatankuasa Pe
 
 #### Apa yang boleh anda lakukan sekarang
 
-Kami mengalu-alukan pandangan anda mengenai [SG Yang Lebih Sihat](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) untuk membantu menjadikan Anda Lebih Sihat.
+Kami mengalu-alukan pandangan anda mengenai [SG Yang Lebih Sihat](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) untuk membantu menjadikan diri Anda Lebih Sihat.
 
 Sementara itu,
 

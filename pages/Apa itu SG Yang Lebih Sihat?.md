@@ -33,7 +33,7 @@ Kita mahu semua rakyat Singapura menjalin hubungan sepanjang hayat yang boleh di
 
 Tiga kelompok kesihatan daerah – [SingHealth](https://www.singhealth.com.sg/), [Sistem Kesihatan Universiti Nasional (NUHS)](https://www.nuhs.edu.sg/) dan [Kumpulan Penjagaan Kesihatan Kebangsaan (NHG)](https://corp.nhg.com.sg/) akan berusaha untuk membangunkan ekosistem kesihatan dan sosial bersepadu dalam daerah mereka.
 
-Mereka akan bekerjasama dengan agensi-agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Majlis Sukan SG (SportsSG)](https://www.myactivesg.com/), [Lembaga Taman Negara (NParks)](https://nparks.gov.sg) serta rakan kongsi sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
+Mereka akan bekerjasama dengan agensi-agensi seperti [Lembaga Penggalakan Kesihatan (HPB)](https://hpb.gov.sg)), [Agensi Penjagaan Bersepadu (AIC)](https://aic.sg), [Persatuan Rakyat (PA)](https://pa.gov.sg), [Majlis Sukan SG (SportsSG)](https://www.myactivesg.com/) serta rakan kongsi sosial dan masyarakat untuk menyokong matlamat kesihatan anda.
 
 Sebagai permulaan, anda akan dapat mengakses lebih banyak aktiviti fizikal dan pemakanan yang lebih sihat, dan anda boleh memilih aktiviti-aktiviti yang paling sesuai untuk anda.
 

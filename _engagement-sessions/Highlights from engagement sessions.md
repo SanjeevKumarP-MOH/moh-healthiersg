@@ -1,11 +1,11 @@
 ---
 title: Highlights from engagement sessions
-permalink: /engagementhighlights
+permalink: /engagementhighlights/
 description: ""
 ---
-### 5 engagement sessions, close to 500 participants
+### More than 6,000 residents and stakeholders such as GPs, employers and community partners engaged
 
-Since the launch of our HealthierSG public consultation on 18 May, close to 500 Singaporeans have joined us physically at our engagement sessions, and over 4,500 have contributed their views via our online survey. 
+Since March 2022, we have consulted more than 6,000 residents, and extensively engaged stakeholders such as private General Practitioners (GPs), employers and community partners to design the key elements of Healthier SG. 
 
 Most of the feedback concerned having a dedicated doctor or clinic, preventive health plan, and community support. 
 

@@ -16,10 +16,10 @@ The White Paper on Healthier SG was submitted to Parliament on 21 September 2022
 ![](/images/healthplan.jpeg)
 
 3. Activate community partners to support residents in leading healthier lifestyles.
-![](/images/cp.png)
+![](/images/cp.jpeg)
 
 4. Launch a national enrolment programme for residents to commit to seeing one family doctor and adopt a health plan.
-![](/images/Add%20a%20heading.png)
+![](/images/nationalenrolment.jpeg)
 
 5. Set up necessary key enablers such as IT, manpower development plan and financing policy to make Healthier SG work.
 ![](/images/KE5.jpeg)

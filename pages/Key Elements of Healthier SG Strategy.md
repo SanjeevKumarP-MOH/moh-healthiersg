@@ -10,7 +10,7 @@ Against the backdrop of an ageing population and the rising impact of chronic di
 The White Paper on Healthier SG was submitted to Parliament on 21 September 2022 and will be debated in Parliament in October 2022. The key elements of Healthier SG are shaped by the consultations the Ministry of Health (MOH) conducted with over 6,000 residents and stakeholders, such as private General Practitioners (GP) employers and community partners.
 # 5 Key elements of Healthier SG 
 1. Mobilise our network of family doctors to deliver preventive care for residents.
-	![](/images/Add%20a%20heading.png)
+![](/images/ke1.png)
 
 2. Develop health plans that include lifestyle adjustments, regular health screening and appropriate vaccinations.
  ![](/images/Add%20a%20heading.png)

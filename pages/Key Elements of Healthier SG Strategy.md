@@ -13,7 +13,7 @@ The White Paper on Healthier SG was submitted to Parliament on 21 September 2022
 ![](/images/ke1.png)
 
 2. Develop health plans that include lifestyle adjustments, regular health screening and appropriate vaccinations.
- ![](/images/Add%20a%20heading.png)
+![](/images/KE5.jpeg)
 
 3. Activate community partners to support residents in leading healthier lifestyles.
 ![](/images/Add%20a%20heading.png)

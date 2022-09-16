@@ -39,3 +39,4 @@ Greater affordability at your enrolled clinic for Singapore citizens
 
 *Also applicable to Permanent Residents
 # Come 2023 – Your Healthier SG Journey in Four Easy Steps
+![](/images/ifg.png)

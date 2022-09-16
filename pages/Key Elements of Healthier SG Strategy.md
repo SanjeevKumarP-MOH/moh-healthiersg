@@ -22,8 +22,7 @@ The White Paper on Healthier SG was submitted to Parliament on 21 September 2022
 ![](/images/Add%20a%20heading.png)
 
 5. Set up necessary key enablers such as IT, manpower development plan and financing policy to make Healthier SG work.
- ![](/images/Add%20a%20heading.png)
-
+![](/images/key%20element%205.png)
 
 # Key Benefits under Healthier SG
 Support at every step of your health journey

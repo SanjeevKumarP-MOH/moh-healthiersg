@@ -3,7 +3,6 @@ title: Key Features of Healthier SG Strategy
 permalink: /key-features/
 description: ""
 ---
-
 Healthier SG is a multi-year strategy to transform the way we deliver healthcare, by shifting our emphasis from reactively caring for those who are already sick, to proactively preventing individuals from falling ill.
 
 Against the backdrop of an ageing population and the rising impact of chronic diseases, Healthier SG aims to empower individuals to become healthier and improve their quality of life through preventive care and strong patient-doctor relationships, supported by the community and our three clusters - the National Healthcare Group (NHG), National University Health System (NUHS) and SingHealth (SHS).
@@ -11,19 +10,19 @@ Against the backdrop of an ageing population and the rising impact of chronic di
 The White Paper on Healthier SG was submitted to Parliament on 21 September 2022 and will be debated in Parliament in October 2022. The key elements of Healthier SG are shaped by the consultations the Ministry of Health (MOH) conducted with over 6,000 residents and stakeholders, such as private General Practitioners (GP) employers and community partners.
 # 5 Key elements of Healthier SG 
 1. Mobilise our network of family doctors to deliver preventive care for residents.
-![](/images/familydoctors.jpeg)
+![](/images/Key%20Features/FD.jpeg)
 
 2. Develop health plans that include lifestyle adjustments, regular health screening and appropriate vaccinations.
-![](/images/hp.jpeg)
+![](/images/Key%20Features/HP.jpeg)
 
 3. Activate community partners to support residents in leading healthier lifestyles.
-![](/images/cp.jpeg)
+![](/images/Key%20Features/CP.jpeg)
 
 4. Launch a national enrolment programme for residents to commit to seeing one family doctor and adopt a health plan.
-![](/images/nep.jpeg)
+![](/images/Key%20Features/NEP.jpeg)
 
 5. Set up necessary key enablers such as IT, manpower development plan and financing policy to make Healthier SG work.
-![](/images/keyenablers.jpeg)
+![](/images/Key%20Features/KE.jpeg)
 # Key Benefits under Healthier SG
 Support at every step of your health journey
 * Fully-subsidised health consultation for your first visit at enrolled clinic
@@ -38,4 +37,4 @@ Greater affordability at your enrolled clinic for Singapore citizens
 
 *Also applicable to Permanent Residents
 # Come 2023 – Your Healthier SG Journey in Four Easy Steps
-![](/images/steps.jpeg)
+![](/images/Key%20Features/next%20steps.jpeg)

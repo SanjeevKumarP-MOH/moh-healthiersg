@@ -10,10 +10,10 @@ Healthier SG aims to empower individuals to become healthier and improve their q
 The White Paper on Healthier SG has been submitted to Parliament on 21 September 2022 and will be debated in Parliament in October 2022. The key elements of Healthier SG are shaped by the consultations the Ministry of Health (MOH) conducted with over 6,000 residents and stakeholders, such as private General Practitioners (GP) employers and community partners.
 # Key Features of Healthier SG 
 1. Mobilise our network of family doctors to deliver preventive care for residents.
-![](/images/Key%20Features/FD.jpeg)
+![](/images/Key%20Features/family.jpeg)
 
 2. Develop health plans that include lifestyle adjustments, regular health screening and appropriate vaccinations.
-![](/images/Key%20Features/HP.jpeg)
+![](/images/Key%20Features/health.jpeg)
 
 3. Activate community partners to support residents in leading healthier lifestyles.
 ![](/images/Key%20Features/CP.jpeg)
@@ -37,4 +37,4 @@ Greater affordability at your enrolled clinic for Singapore citizens
 
 *Also applicable to Permanent Residents
 # Come 2023 – Your Healthier SG Journey in Four Easy Steps
-![](/images/Key%20Features/next%20steps.jpeg)
+![](/images/Key%20Features/steps.jpeg)

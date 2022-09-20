@@ -27,7 +27,7 @@ sections:
       image: /images/Min's screengrab 2.png
   - infobar:
       title: Key Features of Healthier SG
-      description: "Read more on "
+      description: Read more on the 5 key features that shapes Healthier SG.
       button: To find out more
       url: /key-features
   - resources:

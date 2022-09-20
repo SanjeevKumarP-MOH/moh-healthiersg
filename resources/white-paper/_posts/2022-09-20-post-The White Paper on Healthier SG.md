@@ -9,4 +9,4 @@ Click on the image below for an interactive version of the White Paper on Health
 
 For a PDF version of the White Paper, click [here](/files/white-paper.pdf).
 
-![](https://ci4.googleusercontent.com/proxy/hVqgEY4AqMA62IS7VD3-gc-VJF6qLsFUxQB3adMh4Ysq9j5Gd740v8tOoArerGlKneO5C7xMK5WAsxIZPpG8qVjfC2pCoX_XGtc=s0-d-e1-ft#https://cdnc.heyzine.com/flip-book/cover/4c6e2cd236.jpg)
+![https://moh.gov.sg](/images/MOH_COS2022_Booklet_Cover.png)

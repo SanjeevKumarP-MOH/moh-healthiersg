@@ -13,7 +13,7 @@ sections:
           url: /about/
         - title: Key Features
           description: What shapes Healthier SG?
-          url: /engagementhighlights
+          url: /key-features
         - title: White Paper on Healthier SG
           description: Read more
           url: /resources/white-paper

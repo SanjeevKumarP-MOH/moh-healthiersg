@@ -5,7 +5,7 @@ description: ""
 ---
 Healthier SG is a multi-year strategy to transform the way we deliver healthcare, by shifting our emphasis from reactively caring for those who are already sick, to proactively preventing individuals from falling ill.
 
-Healthier SG aims to empower individuals to become healthier and improve their quality of life through preventive care and strong patient-doctor relationships, supported by the community and the three healthcare clusters - the National Healthcare Group (NHG), National University Health System (NUHS) and SingHealth (SHS).
+Healthier SG aims to empower individuals to become healthier and improve their quality of life through preventive care and strong patient-doctor relationships, supported by the community and the three healthcare clusters – the National Healthcare Group (NHG), National University Health System (NUHS) and SingHealth (SHS).
 
 The [White Paper on Healthier SG](/resources/white-paper) was submitted to Parliament on 21 September 2022 and will be debated in Parliament in October 2022. The key features of Healthier SG are shaped by the consultations the Ministry of Health (MOH) conducted with over 6,000 residents and stakeholders, such as private General Practitioners (GP) employers and community partners.
 

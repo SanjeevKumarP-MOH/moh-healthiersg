@@ -11,6 +11,9 @@ sections:
         - title: What is Healthier SG?
           description: Everything you need to know
           url: /about/
+        - title: White Paper on Healthier SG
+          description: Read more
+          url: /resources/white-paper
         - title: Healthier SG Conversations
           description: Engagement session highlights
           url: /engagementhighlights

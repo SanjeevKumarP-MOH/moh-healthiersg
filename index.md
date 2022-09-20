@@ -26,8 +26,12 @@ sections:
       alt: Image alt text
       image: /images/Min's screengrab 2.png
   - infobar:
-      title: Healthier SG Conversations
-      description: We invite you to share your views through in-person engagement sessions.
+      title: Key Features of Healthier SG
+      description: "Read more on "
       button: To find out more
-      url: https://form.gov.sg/#!/6261f202b91a650012d3e3b5
+      url: /key-features
+  - resources:
+      title: Healthier SG Recources
+      subtitle: Resources
+      button: View more
 ---

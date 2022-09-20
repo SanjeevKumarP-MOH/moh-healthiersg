@@ -15,7 +15,7 @@ colors:
       color: "#102a52"
     - title: media-color-five
       color: "#0b449f"
-resources_name: resource
+resources_name: resources
 description: Towards a Healthier Singapore
 permalink: none
 baseurl: ""

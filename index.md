@@ -12,19 +12,19 @@ sections:
           description: Everything you need to know
           url: /about/
         - title: Key Features
-          description: What shapes Healthier SG?
+          description: What are the 5 key features?
           url: /key-features
         - title: White Paper on Healthier SG
-          description: Read more
+          description: Read the White Paper
           url: /resources/white-paper
         - title: Resources
-          description: Posters, videos, infographics
+          description: Videos, infographics
           url: /resource/
       url: /about
       background: /images/final banner.png
   - infobar:
       title: Key Features of Healthier SG
-      description: Read more on the 5 key features that shapes Healthier SG.
+      description: Find out more about the 5 key features of Healthier SG.
       button: To find out more
       url: /key-features
   - resources:

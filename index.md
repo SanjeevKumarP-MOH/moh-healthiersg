@@ -2,7 +2,7 @@
 layout: homepage
 title: Healthier SG
 description: Towards a Healthier Singapore
-image: /images/MOHShareicon.png
+image: /images/HSG and Forward SG Lockup.png
 permalink: /
 notification: ""
 sections:
@@ -38,3 +38,4 @@ sections:
       alt: Image alt text
       image: /images/Min's screengrab 2.png
 ---
+

@@ -7,8 +7,8 @@ description: ""
 ---
 #### Click on the links below to view the White Paper on Healthier SG:
 
-- [eBook version](https://go.gov.sg/moh-cos2022-booklet-ebook)
+- [eBook version](https://go.gov.sg/healthiersg-whitepaper-ebook)
 
-- [PDF version](https://go.gov.sg/moh-cos2022-booklet-pdf)
+- [PDF version](https://go.gov.sg/healthiersg-whitepaper)
 
 ![MOH COS2022 Booklet Cover](/images/MOH_COS2022_Booklet_Cover.png)

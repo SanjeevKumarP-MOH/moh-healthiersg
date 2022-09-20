@@ -5,5 +5,6 @@ date: 2022-09-19
 layout: post
 description: ""
 ---
-
 [The White Paper on Healthier SG](/files/white-paper.pdf)
+
+![](/images/cover.png)

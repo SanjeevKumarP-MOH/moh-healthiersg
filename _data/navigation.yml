@@ -2,9 +2,11 @@ logo: /images/Ministry of Health.png
 links:
   - title: What is Healthier SG?
     url: /about/
-  - title: Engagement Sessions
-    collection: engagement-sessions
+  - title: Key Features of Healthier SG
+    url: /key-features
   - title: White Paper
     url: /resource/white-paper
+  - title: Engagement Sessions
+    collection: engagement-sessions
   - title: Resources
     resource_room: true

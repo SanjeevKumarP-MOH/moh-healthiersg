@@ -11,6 +11,7 @@ The [White Paper on Healthier SG](/resources/white-paper) has been submitted to 
 
 # Key Features of Healthier SG 
 1. Mobilise our network of family doctors to deliver preventive care for residents.
+
 ![](/images/Key%20Features/Family%20Doctors.png)
 
 2. Develop health plans that include lifestyle adjustments, regular health screening and appropriate vaccinations.

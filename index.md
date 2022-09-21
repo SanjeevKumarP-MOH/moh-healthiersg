@@ -22,11 +22,13 @@ sections:
           url: /resource/
       url: /about
       background: /images/final banner.png
-  - infobar:
+  - infopic:
       title: Key Features of Healthier SG
       description: Find out more about the 5 key features of Healthier SG.
       button: To find out more
       url: /key-features
+      image: /images/Banner.png
+      alt: Image alt text
   - resources:
       title: Healthier SG Recources
       subtitle: Resources
@@ -38,4 +40,3 @@ sections:
       alt: Image alt text
       image: /images/Min's screengrab 2.png
 ---
-

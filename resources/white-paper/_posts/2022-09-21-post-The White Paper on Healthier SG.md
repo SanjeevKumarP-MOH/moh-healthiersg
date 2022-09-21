@@ -9,6 +9,6 @@ description: ""
 
 - [eBook version](https://go.gov.sg/healthiersg-whitepaper-ebook)
 
-- [PDF version](https://go.gov.sg/healthiersg-whitepaper-pdf)
+- [PDF version](https://go.gov.sg/healthiersg-whitepaper-pdf.pdf)
 
 ![MOH COS2022 Booklet Cover](/images/Cover.jpg)

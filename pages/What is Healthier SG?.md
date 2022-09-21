@@ -39,14 +39,11 @@ For a start, you will be able to access more physical activities and healthier d
 
 If you are older, the regional health clusters and your family doctor will advise you on how you can attend healthy activities and programmes, such as at the local eldercare centre.
 
-Read more on Healthier SG from the [Health Minister’s Committee of Supply 2022 speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-ong-ye-kung-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2022).
+Read more on Healthier SG from the [White Paper on Healthier SG](/resources/white-paper).
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 #### What can you do now
 
-We welcome your views on [Healthier SG](https://form.gov.sg/#!/6254f4af045bce0012fc5a8b) to help shape a Healthier You. 
-
-Meanwhile, 
 * Click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life) to check if you are eligible for affordable health screening under Screen for Life, if you have yet to complete it. 
 * Stay healthy and download [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) and [Health Hub](https://www.healthhub.sg/) for more information!

@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Key Features of Healthier SG
       description: Find out more about the 5 key features of Healthier SG.
-      button: To find out more
+      button: Find out more
       url: /key-features
       image: /images/Banner.png
       alt: Image alt text

@@ -30,7 +30,7 @@ sections:
       image: /images/Banner.png
       alt: Image alt text
   - resources:
-      title: Healthier SG Recources
+      title: Healthier SG Resources
       subtitle: Resources
       button: View more
   - infopic:

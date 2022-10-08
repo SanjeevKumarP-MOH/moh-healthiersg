@@ -3,7 +3,7 @@ title: Key Features of Healthier SG Strategy
 permalink: /key-features/
 description: ""
 ---
-The [White Paper on Healthier SG](/resources/white-paper) was submitted to Parliament on 21 September 2022 and will be debated in Parliament in October 2022. The key features of Healthier SG are shaped by consultations the Ministry of Health (MOH) conducted with over 6,000 residents and stakeholders, such as private General Practitioners (GP) employers and community partners.
+The [White Paper on Healthier SG](/resources/white-paper) was submitted to Parliament on 21 September 2022 and debated in Parliament on 4-5 October 2022. The key features of Healthier SG are shaped by consultations the Ministry of Health (MOH) conducted with over 6,000 residents and stakeholders, such as private General Practitioners (GP) employers and community partners.
 # Key Features of Healthier SG 
 ### 1. Mobilise our network of family doctors to deliver preventive care for residents.
 ![](/images/Key%20Features/Family%20Doctors.png)

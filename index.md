@@ -39,4 +39,10 @@ sections:
       url: https://www.youtube.com/watch?v=6tHRIJW7R-A
       alt: Image alt text
       image: /images/Min's screengrab 2.png
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---

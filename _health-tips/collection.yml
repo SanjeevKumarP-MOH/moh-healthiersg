@@ -1,0 +1,4 @@
+collections:
+  health-tips:
+    output: true
+    order: []

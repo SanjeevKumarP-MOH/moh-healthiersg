@@ -2,4 +2,5 @@ collections:
   health-tips:
     output: true
     order:
+      - 什么是健康SG计划？.md
       - privacy.md

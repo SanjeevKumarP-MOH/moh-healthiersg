@@ -1,5 +1,4 @@
 collections:
   health-tips:
     output: true
-    order:
-      - privacy.md
+    order: []

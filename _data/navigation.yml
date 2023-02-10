@@ -4,11 +4,11 @@ links:
     url: /about/
   - title: Key Features
     url: /key-features
-  - title: White Paper
-    url: /resources/white-paper
   - title: Engagement Sessions
     collection: engagement-sessions
   - title: Resources
     resource_room: true
   - title: Forward SG
     url: https://www.sg/forwardsg
+  - title: Health Tips
+    collection: health-tips

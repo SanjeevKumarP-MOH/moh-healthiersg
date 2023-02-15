@@ -2,12 +2,10 @@ logo: /images/HSG and Forward SG Lockup.png
 links:
   - title: What is Healthier SG?
     url: /about/
-  - title: Key Features
-    url: /key-features
-  - title: White Paper
-    url: /resources/white-paper
-  - title: Engagement Sessions
-    collection: engagement-sessions
+  - title: Engagement
+    url: /engagement-sessions
+  - title: Health Tips
+    collection: health-tips
   - title: Resources
     resource_room: true
   - title: Forward SG

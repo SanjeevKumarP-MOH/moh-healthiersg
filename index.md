@@ -23,6 +23,13 @@ sections:
       url: /about
       background: /images/final banner.png
   - infopic:
+      title: Active Ageing in your golden years
+      button: read more
+      url: /active-ageing
+      alt: Image alt text
+      image: /images/Targeting Seniors Banner.png
+      subtitle: Health Tips
+  - infopic:
       title: Key Features of Healthier SG
       description: Find out more about the 5 key features of Healthier SG.
       button: Find out more
@@ -33,10 +40,4 @@ sections:
       title: Healthier SG Resources
       subtitle: Resources
       button: View more
-  - infopic:
-      title: What does Healthier SG mean for you and me?
-      button: view more
-      url: https://www.youtube.com/watch?v=6tHRIJW7R-A
-      alt: Image alt text
-      image: /images/Min's screengrab 2.png
 ---

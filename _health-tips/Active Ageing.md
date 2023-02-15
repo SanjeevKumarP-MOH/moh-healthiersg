@@ -3,9 +3,9 @@ title: Active Ageing
 permalink: /active-ageing/
 description: ""
 ---
-
 # Active ageing in your golden years
 # 
+
 ![activeageing](/images/Targeting%20Seniors%20Banner.png)
  
 Getting older does not mean you are past your prime. Embracing active ageing is one way to ensure a healthy and fulfilling life in your senior years. 

@@ -20,8 +20,7 @@ It is no secret that keeping active is the key to good health and prevention of 
 ## Join a workout class ##
 
   ![activeageing](/images/workout.jpeg)
-  
-
+ 
 Finding the time and motivation to exercise might be a struggle for some, especially if you’re just starting out. Joining a workout class might help! The support of trainers and camaraderie from fellow participants may just give you the extra boost you need. On top of that, having a regular class schedule can help you stay consistent with your routine. Beyond keeping fit, joining a class also allows you to make new friends and stay socially engaged.
 
 ## Keeping mentally engaged ##

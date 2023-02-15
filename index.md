@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Active Ageing in your golden years
       button: read more
-      url: /health-tips
+      url: /health-tips/active-ageing
       alt: Image alt text
       image: /images/Targeting Seniors Banner.png
       subtitle: Health Tips

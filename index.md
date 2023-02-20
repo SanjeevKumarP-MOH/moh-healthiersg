@@ -27,7 +27,6 @@ sections:
       button: read more
       url: /health-tips/healthy-eating
       alt: Image alt text
-      image: /images/Targeting Seniors Banner.png
       subtitle: Health Tips
   - infopic:
       title: Key Features of Healthier SG

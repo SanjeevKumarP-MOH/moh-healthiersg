@@ -3,7 +3,6 @@ title: Healthy Eating
 permalink: /health-tips/healthy-eating/
 description: ""
 ---
-**
 ## A Healthier You Starts with a Healthy Diet ##
 ![banner](/images/Healthy%20Eating/Healthy%20Eating%20Banner.png)
 

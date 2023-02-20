@@ -23,12 +23,12 @@ sections:
       url: /about
       background: /images/final banner.png
   - infopic:
-      title: Active Ageing in your golden years
+      title: A Healthier You Starts with a Healthy Diet
       button: read more
-      url: /active-ageing
-      alt: Image alt text
-      image: /images/Targeting Seniors Banner.png
+      url: /health-tips/healthy-eating
+      alt: banner
       subtitle: Health Tips
+      image: /images/Healthy Eating/Healthy Eating Banner.png
   - infopic:
       title: Key Features of Healthier SG
       description: Find out more about the 5 key features of Healthier SG.

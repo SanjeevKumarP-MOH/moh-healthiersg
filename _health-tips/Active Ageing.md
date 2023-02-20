@@ -1,8 +1,9 @@
 ---
 title: Active Ageing
-permalink: /active-ageing/
+permalink: /health-tips/active-ageing/
 description: ""
 ---
+
 # Active ageing in your golden years # 
   ![activeageing](/images/Targeting%20Seniors%20Banner.png)
  

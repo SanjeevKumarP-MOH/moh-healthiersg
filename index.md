@@ -23,9 +23,9 @@ sections:
       url: /about
       background: /images/final banner.png
   - infopic:
-      title: Active Ageing in your golden years
+      title: A Healthier You Starts with a Healthy Diet
       button: read more
-      url: /active-ageing
+      url: /health-tips/healthy-eating
       alt: Image alt text
       image: /images/Targeting Seniors Banner.png
       subtitle: Health Tips

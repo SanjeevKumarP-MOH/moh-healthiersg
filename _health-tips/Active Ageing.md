@@ -31,3 +31,7 @@ Active ageing does not just refer to keeping physically active. Keeping the mind
 Your brain likes new things, and exercising your mental capacity is one way to extend your brain’s fitness. Though the brain shrinks with age, learning new things and challenging the brain with games and new skills can build new neural connections.  
 
 Seniors can keep their mind active by learning new things or picking up new skills, such as developing digital literacy, gardening or even getting to that art class you never had time for when you were younger. These experiences can help develop creativity, open-mindedness and inquisitiveness, all traits linked to healthier ageing.
+
+***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
+
+***Download the [Healthy365 app](https://hpb.gov.sg/healthy-living/healthy-365) to earn Healthpoints and start your journey towards healthier living today!***

@@ -34,4 +34,4 @@ Seniors can keep their mind active by learning new things or picking up new skil
 
 ***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
 
-***Download the [Healthy365 app](https://hpb.gov.sg/healthy-living/healthy-365) to earn Healthpoints and start your journey towards healthier living today!***
+***Download the [Healthy 365 app](https://hpb.gov.sg/healthy-living/healthy-365) to earn Healthpoints and start your journey towards healthier living today!***

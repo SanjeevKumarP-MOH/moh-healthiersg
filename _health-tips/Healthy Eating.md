@@ -41,3 +41,7 @@ We need to eat a wide variety of foods in the right amounts to meet our daily nu
 If you are struggling to do so, try using HPB’s visual guide, My Healthy Plate, to help you adopt healthier eating habits.
 
 “Quarter, Quarter, Half” is an easy way to remember the proportions of each food group for a well-balanced meal. Simply fill a quarter plate with wholegrains, a quarter plate with good sources of protein, and half plate with fruits and vegetables.
+
+***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
+
+***Download the [Healthy365 app](https://hpb.gov.sg/healthy-living/healthy-365) to earn Healthpoints and start your journey towards healthier living today!***

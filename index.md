@@ -21,13 +21,14 @@ sections:
           description: Videos, infographics
           url: /resource/
       url: /about
-      background: /images/activebanner.png
+      background: /images/final banner.png
   - infopic:
       title: Let's get moving!
       button: read more
       url: /health-tips/active-living
       alt: banner
       subtitle: Health Tips
+      image: /images/activebanner.png
   - infopic:
       title: Key Features of Healthier SG
       description: Find out more about the 5 key features of Healthier SG.

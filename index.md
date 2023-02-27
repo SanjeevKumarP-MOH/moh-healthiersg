@@ -23,12 +23,12 @@ sections:
       url: /about
       background: /images/final banner.png
   - infopic:
-      title: A Healthier You Starts with a Healthy Diet
+      title: Let's get moving!
       button: read more
-      url: /health-tips/healthy-eating
+      url: /health-tips/active-living
       alt: banner
       subtitle: Health Tips
-      image: /images/Healthy Eating/Healthy Eating Banner.png
+      image: /images/activebanner.png
   - infopic:
       title: Key Features of Healthier SG
       description: Find out more about the 5 key features of Healthier SG.

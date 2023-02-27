@@ -21,7 +21,7 @@ sections:
           description: Videos, infographics
           url: /resource/
       url: /about
-      background: /images/final banner.png
+      background: /images/activebanner.png
   - infopic:
       title: Let's get moving!
       button: read more

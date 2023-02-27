@@ -21,3 +21,7 @@ Sticking to the same exercise routine may become boring after a while, and may c
 It can be challenging for some of us to find the time and motivation to exercise regularly amidst our hectic lifestyles. After all, not everyone can afford to carve out an hour or two to head to the gym. 
 
 For those of you who are time-starved, consider incorporating physical activity into your daily routine. Heading to work? Alight one or two stops earlier and walk the rest of the way to the office. Watching television? Try doing some jumping jacks or planks while doing so. Over time, these small actions will add up and help you stay active and healthy.
+
+***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
+
+***Download the [Healthy 365 app](https://hpb.gov.sg/healthy-living/healthy-365) to earn Healthpoints towards your Healthier SG journey today!***
